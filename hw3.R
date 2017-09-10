@@ -91,12 +91,12 @@ for (i in 1:dim(thing)[2]){
 for (i in 1:length(placeholder2)){
   ph = grepl("Extra Features$",placeholder2[[i]])
   if (sum(ph)==1){
-    scrapeit=placeholder2[[i]][(grepl("Extra Features$",placeholder2[[i]])+4)]
+    scrapeit=placeholder2[[i]][(grep("Extra Features$",placeholder2[[i]])+4)]
     if (sum(grepl("\\$",scrapeit))==1){
       scrapeit=sub(".*\\$", "", scrapeit)
       scrapeit = sub(",","",scrapeit)
       scrapeit = sub("</td>.*","",scrapeit)
-      thing$exval[i]=as.numeric(scrapeit)
+      thing$exval[i]=scrapeit
     } else {thing$exval[i]="No Data for Extra Features"}
   } else {thing$exval[i]=NA}
 }
