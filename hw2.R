@@ -102,9 +102,8 @@ for (i in 1:length(placeholder2)){
     pwd=placeholder2[[i]][grep("MainContent_lblGenAppraisal\"",placeholder2[[i]])]
     pwd=sub(".*\\$","",pwd); pwd=sub("</span.*","",pwd); pwd=gsub(",","",pwd)
     thing$totval[i]=as.numeric(pwd)
-    rm(pwd)
     # clean and scrape thing$totval
-  }
+  } else { thing$totval[i]=NA}
 }
 
 #bedrooms
