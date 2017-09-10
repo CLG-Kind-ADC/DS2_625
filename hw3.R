@@ -15,26 +15,26 @@ for (i in 1:length(thing$pid)){
   
   ph1=grepl("<td>Style",placeholder2[[i]])
   if (sum(ph1)==1){
-    scrapeit1=placeholder2[[i]][grepl("<td>Style",placeholder2[[i]])]
-    scrapeit1=sub(".*</td><td>", "", scrapeit1)
-    scrapeit1 = sub("</td.*","",scrapeit1)
-    thing$style[i]=scrapeit1
+    scrapeit=placeholder2[[i]][grepl("<td>Style",placeholder2[[i]])]
+    scrapeit=sub(".*</td><td>", "", scrapeit)
+    scrapeit = sub("</td.*","",scrapeit)
+    thing$style[i]=scrapeit
   } else {thing$style[i]=NA}
   
   ph2=grepl("<td>Model</td><td>",placeholder2[[i]])
   if (sum(ph2)==1){
-    scrapeit2=placeholder2[[i]][grepl("<td>Model</td><td>",placeholder2[[i]])]
-    scrapeit2=sub(".*</td><td>", "", scrapeit2)
-    scrapeit2 = sub("</td.*","",scrapeit2)
-    thing$model[i]=scrapeit2
+    scrapeit=placeholder2[[i]][grepl("<td>Model</td><td>",placeholder2[[i]])]
+    scrapeit=sub(".*</td><td>", "", scrapeit)
+    scrapeit = sub("</td.*","",scrapeit)
+    thing$model[i]=scrapeit
   } else {thing$model[i]=NA}
   
   ph3=grepl("<td>Grade:</td><td>",placeholder2[[i]])
   if (sum(ph3)==1){
-    scrapeit3=placeholder2[[i]][grepl("<td>Grade:</td><td>",placeholder2[[i]])]
-    scrapeit3=sub(".*</td><td>", "", scrapeit3)
-    scrapeit3 = sub("</td.*","",scrapeit3)
-    thing$grade[i]=scrapeit3
+    scrapeit=placeholder2[[i]][grepl("<td>Grade:</td><td>",placeholder2[[i]])]
+    scrapeit=sub(".*</td><td>", "", scrapeit)
+    scrapeit = sub("</td.*","",scrapeit)
+    thing$grade[i]=scrapeit
   } else {thing$grade[i]=NA}
   
   ph4=grepl("<td>Occupancy</td><td>",placeholder2[[i]])
@@ -52,9 +52,24 @@ for (i in 1:length(thing$pid)){
     scrapeit = sub("</td.*","",scrapeit)
     thing$actype[i]=scrapeit
   } else {thing$actype[i]=NA}
+  
+  ph6=grepl("Bath Style:</td><td>",placeholder2[[i]])
+  if (sum(ph6)==1){
+    scrapeit=placeholder2[[i]][grepl("Bath Style:</td><td>",placeholder2[[i]])]
+    scrapeit=sub(".*</td><td>", "", scrapeit)
+    scrapeit = sub("</td.*","",scrapeit)
+    thing$bathstyle[i]=scrapeit
+  } else {thing$bathstyle[i]=NA}
+  
+  ph7=grepl("Kitchen Style:</td><td>",placeholder2[[i]])
+  if (sum(ph7)==1){
+    scrapeit=placeholder2[[i]][grepl("Kitchen Style:</td><td>",placeholder2[[i]])]
+    scrapeit=sub(".*</td><td>", "", scrapeit)
+    scrapeit = sub("</td.*","",scrapeit)
+    thing$kstyle[i]=scrapeit
+  } else {thing$kstyle[i]=NA}
 
 }
 
-# "AC Type:</td><td>"
 # "Bath Style:</td><td>" "Kitchen Style:</td><td>" (call it kstyle)
 # acres: "MainContent_lblLndAcres\">"
