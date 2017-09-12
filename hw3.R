@@ -211,4 +211,4 @@ for (i in 1:length(thing$pid)){
 }
 
 which(!is.na(thing$grade) & is.na(thing2fortest$grade))
-thing[which(!is.na(thing$grade) & is.na(thing2fortest$grade)),]
+View(thing[which(!is.na(thing$grade) & is.na(thing2fortest$grade)),])
