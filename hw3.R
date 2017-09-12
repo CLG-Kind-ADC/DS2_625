@@ -172,8 +172,7 @@ for (i in 1:length(thing$pid)){
     scrapeit=placeholder2[[i]][grepl("AC Type:</td><td>",placeholder2[[i]])]
     scrapeit=sub(".*</td><td>", "", scrapeit)
     scrapeit = sub("</td.*","",scrapeit)
-    if (scrapeit[1]=="None"){scrapeit1=as.character("None")}
-    else {scrapeit1=scrapeit[1]}
+    scrapeit1=scrapeit[1]
     for (j in 2:length(scrapeit)){
       scrapeit1=paste(scrapeit1,scrapeit[j],sep=", ")
     }
@@ -185,9 +184,7 @@ for (i in 1:length(thing$pid)){
     scrapeit=placeholder2[[i]][grepl("Bath Style:</td><td>",placeholder2[[i]])]
     scrapeit=sub(".*</td><td>", "", scrapeit)
     scrapeit = sub("</td.*","",scrapeit)
-    if (scrapeit[1]=="None"){scrapeit1=as.character("None")}
-    else {scrapeit1=scrapeit[1]}
-    scrapeit1=scrapeit[i]
+    scrapeit1=scrapeit[1]
     for (j in 2:length(scrapeit)){
       scrapeit1=paste(scrapeit1,scrapeit[j],sep=", ")
     }
@@ -199,8 +196,6 @@ for (i in 1:length(thing$pid)){
     scrapeit=placeholder2[[i]][grepl("Kitchen Style:</td><td>",placeholder2[[i]])]
     scrapeit=sub(".*</td><td>", "", scrapeit)
     scrapeit = sub("</td.*","",scrapeit)
-    if (scrapeit[1]=="None"){scrapeit1=as.character("None")}
-    else {scrapeit1=scrapeit[1]}
     scrapeit1=scrapeit[1]
     for (j in 2:length(scrapeit)){
       scrapeit1=paste(scrapeit1,scrapeit[j],sep=", ")
@@ -210,5 +205,21 @@ for (i in 1:length(thing$pid)){
   
 }
 
+thing$bathstyle[grep("&nbsp;",thing$bathstyle)]=sub("&nbsp;","No Data",
+            thing$bathstyle[grep("&nbsp;",thing$bathstyle)])
+thing$kstyle[grep("&nbsp;",thing$kstyle)]=sub("&nbsp;","No Data",
+            thing$kstyle[grep("&nbsp;",thing$kstyle)])
+thing$actype[grep("&nbsp;",thing$actype)]=sub("&nbsp;","No Data",
+              thing$actype[grep("&nbsp;",thing$actype)])
+
+
 which(!is.na(thing$grade) & is.na(thing2fortest$grade))
 View(thing[which(!is.na(thing$grade) & is.na(thing2fortest$grade)),])
+
+housing_dataframe = read.csv("/Volumes/SSG SSD T3/ssd_statgrad/DS2_625/test.csv")
+housing_dataframe[,which(names(housing_dataframe) 
+                         %in% c("pctgood","style","model","grade","occupancy","actype",
+                                "bathstyle","kstyle","exval","acres"))]=
+  thing[,which(names(thing) %in% c("pctgood","style","model","grade","occupancy","actype",
+                                   "bathstyle","kstyle","exval","acres"))]
+write.csv(housing_dataframe,"/Volumes/SSG SSD T3/ssd_statgrad/DS2_625/test.csv")
