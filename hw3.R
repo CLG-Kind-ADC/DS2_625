@@ -119,7 +119,7 @@ for (i in 1:length(thing$pid)){
     scrapeit=sub(".*lblPctGood\">", "", scrapeit)
     scrapeit = sub("</span>.*","",scrapeit)
     scrapeit=as.numeric(scrapeit)
-    thing$pctgood[i]=mean(scrapeit)
+    thing$pctgood[i]=mean(scrapeit,na.rm = TRUE)
   } else {thing$pctgood[i]=thing$pctgood[i]}
   
   ph=grepl("<td>Style",placeholder2[[i]])
@@ -163,7 +163,7 @@ for (i in 1:length(thing$pid)){
     scrapeit=placeholder2[[i]][grepl("<td>Occupancy</td><td>",placeholder2[[i]])]
     scrapeit=sub(".*</td><td>", "", scrapeit)
     scrapeit = sub("</td.*","",scrapeit)
-    scrapeit=sum(as.numeric(scrapeit))
+    scrapeit=sum(as.numeric(scrapeit),na.rm = TRUE)
     thing$occupancy[i]=scrapeit
   } else {thing$occupancy[i]=thing$occupancy[i]}
   
@@ -172,7 +172,8 @@ for (i in 1:length(thing$pid)){
     scrapeit=placeholder2[[i]][grepl("AC Type:</td><td>",placeholder2[[i]])]
     scrapeit=sub(".*</td><td>", "", scrapeit)
     scrapeit = sub("</td.*","",scrapeit)
-    scrapeit1=scrapeit[i]
+    if (scrapeit[1]=="None"){scrapeit1=as.character("None")}
+    else {scrapeit1=scrapeit[1]}
     for (j in 2:length(scrapeit)){
       scrapeit1=paste(scrapeit1,scrapeit[j],sep=", ")
     }
@@ -184,6 +185,8 @@ for (i in 1:length(thing$pid)){
     scrapeit=placeholder2[[i]][grepl("Bath Style:</td><td>",placeholder2[[i]])]
     scrapeit=sub(".*</td><td>", "", scrapeit)
     scrapeit = sub("</td.*","",scrapeit)
+    if (scrapeit[1]=="None"){scrapeit1=as.character("None")}
+    else {scrapeit1=scrapeit[1]}
     scrapeit1=scrapeit[i]
     for (j in 2:length(scrapeit)){
       scrapeit1=paste(scrapeit1,scrapeit[j],sep=", ")
@@ -196,6 +199,8 @@ for (i in 1:length(thing$pid)){
     scrapeit=placeholder2[[i]][grepl("Kitchen Style:</td><td>",placeholder2[[i]])]
     scrapeit=sub(".*</td><td>", "", scrapeit)
     scrapeit = sub("</td.*","",scrapeit)
+    if (scrapeit[1]=="None"){scrapeit1=as.character("None")}
+    else {scrapeit1=scrapeit[1]}
     scrapeit1=scrapeit[1]
     for (j in 2:length(scrapeit)){
       scrapeit1=paste(scrapeit1,scrapeit[j],sep=", ")
@@ -204,3 +209,6 @@ for (i in 1:length(thing$pid)){
   } else {thing$kstyle[i]=thing$kstyle[i]}
   
 }
+
+which(!is.na(thing$grade) & is.na(thing2fortest$grade))
+thing[which(!is.na(thing$grade) & is.na(thing2fortest$grade)),]
