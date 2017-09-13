@@ -216,10 +216,13 @@ thing$actype[grep("&nbsp;",thing$actype)]=sub("&nbsp;","No Data",
 which(!is.na(thing$grade) & is.na(thing2fortest$grade))
 View(thing[which(!is.na(thing$grade) & is.na(thing2fortest$grade)),])
 
-housing_dataframe = read.csv("/Volumes/SSG SSD T3/ssd_statgrad/DS2_625/test.csv")
+housing_dataframe = read.csv("/Volumes/SSG SSD T3/ssd_statgrad/DS2_625/test.csv",as.is=TRUE)
 housing_dataframe[,which(names(housing_dataframe) 
                          %in% c("pctgood","style","model","grade","occupancy","actype",
                                 "bathstyle","kstyle","exval","acres"))]=
   thing[,which(names(thing) %in% c("pctgood","style","model","grade","occupancy","actype",
-                                   "bathstyle","kstyle","exval","acres"))]
-write.csv(housing_dataframe,"/Volumes/SSG SSD T3/ssd_statgrad/DS2_625/test.csv")
+                                   "bathstyle","kstyle","acres","exval"))]
+colnames(housing_dataframe)[colnames(housing_dataframe)=="acres"]="exv"
+colnames(housing_dataframe)[colnames(housing_dataframe)=="exval"]="acres"
+colnames(housing_dataframe)[colnames(housing_dataframe)=="exv"]="exval"
+write.csv(housing_dataframe[,-c(1,2)],"/Volumes/SSG SSD T3/ssd_statgrad/DS2_625/test.csv")
