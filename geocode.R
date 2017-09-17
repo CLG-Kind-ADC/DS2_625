@@ -43,7 +43,7 @@ write.csv(address_out, "final_locations.csv", row.names=FALSE)
 
 ## use the Census API
 library(httr)
-url <- "https://geocoding.geo.census.gov/geocoder/geographies/addressbatch"
+url <- "https://geocoding.geo.census.gov/geocoder/geographies/addressbatch?form"
 
 # the API can only handle up to 1000 requests
 addresses <- address_out[1:30,]
@@ -102,3 +102,114 @@ table(v$match2)
 # columns above. You should also submit the .R file used for code clean-ups
 # and the geocoding (call this `hw4_netid1_netid2_....R`). 
 
+
+# phoebe's notes:
+# take the modal solution because reasons
+# pctgood, acres, exval, occupancy
+modal_table=NULL
+modalpctgood = NULL
+for (i in 1:27307){
+  for (j in 1:length(alldf)){
+    modal_table[j] = alldf[[j]]$pctgood[i]}
+ modalpctgood[i] = names(table(modal_table,useNA="always")[
+    order(table(modal_table,useNA="always"),decreasing=T)])[1]
+}
+
+modal_table=NULL
+modalacres = NULL
+for (i in 1:27307){
+  for (j in 1:length(alldf)){
+    modal_table[j] = alldf[[j]]$acres[i]}
+  modalacres[i] = names(table(modal_table,useNA="always")[
+    order(table(modal_table,useNA="always"),decreasing=T)])[1]
+}
+
+modal_table=NULL
+modalexval = NULL
+for (i in 1:27307){
+  for (j in 1:length(alldf)){
+    modal_table[j] = alldf[[j]]$exval[i]}
+  modalexval[i] = names(table(modal_table,useNA="always")[
+    order(table(modal_table,useNA="always"),decreasing=T)])[1]
+}
+
+modal_table=NULL
+modaloccupancy = NULL
+for (i in 1:27307){
+  for (j in 1:length(alldf)){
+    modal_table[j] = alldf[[j]]$occupancy[i]}
+  modaloccupancy[i] = names(table(modal_table,useNA="always")[
+    order(table(modal_table,useNA="always"),decreasing=T)])[1]
+}
+
+modal_table=NULL
+modallocation = NULL
+for (i in 1:27307){
+  for (j in 1:length(alldf)){
+    modal_table[j] = alldf[[j]]$location[i]}
+  modallocation[i] = names(table(modal_table,useNA="always")[
+    order(table(modal_table,useNA="always"),decreasing=T)])[1]
+}
+
+# append ", NEW HAVEN, CT" to everything
+
+#modallocation = paste(modallocation, ", NEW HAVEN, CT", sep="")
+five_Variables = data.frame(modalpctgood,modalacres,modalexval,modaloccupancy,
+                            modallocation)
+names(five_Variables)=c("pctgood","acres","exval","occupancy","location")
+write.csv(five_Variables,
+          "/Volumes/SSG SSD T3/ssd_statgrad/DS2_625/five_variables.csv",
+          row.names = F)
+
+geodata0 = data.frame(pid=1:27307,
+                     location=modallocation,
+                     city=rep("New Haven",times=27307),
+                     state=rep("CT",times = 27307),
+                     zip="")
+
+geodata = data.frame(pid=1:27307,
+                     location=modallocation,
+                     city=rep("New Haven",times=27307),
+                     state=rep("CT",times = 27307),
+                     zip=""
+                     )
+
+dim(geodata)
+
+for (i in 1:27){
+  write.csv(geodata[1:1000,],paste("/Volumes/SSG SSD T3/ssd_statgrad/DS2_625/hw4/parsing",
+            i,".csv",sep=""),row.names=F)
+  geodata=geodata[1001:dim(geodata)[1],]
+}
+write.csv(geodata[1:dim(geodata)[1],],paste(
+  "/Volumes/SSG SSD T3/ssd_statgrad/DS2_625/hw4/parsing",
+                                            "28",".csv",sep=""),row.names=F)
+
+rm(geodata)
+
+url <- "https://geocoding.geo.census.gov/geocoder/geographies/addressbatch?form"
+
+for (i in 1:28){
+  f=paste("/Volumes/SSG SSD T3/ssd_statgrad/DS2_625/hw4/parsing",i,".csv",sep="")
+req <- POST(url, body=list(addressFile = upload_file(f),
+                           benchmark = "Public_AR_Census2010",
+                           vintage = "Census2010_Census2010"),
+            encode = "multipart")
+content(req, "text", encoding = "UTF-8")
+
+# easier to write the output into a .csv file and then read it in
+outfile <- tempfile(fileext = ".csv")
+writeLines(content(req, "text", encoding = "UTF-8"), outfile)
+
+v <- read.csv(outfile, header=FALSE, as.is=TRUE)
+v=v[-which(v$V1=="pid"),]
+v=v[order(as.numeric(v$V1)),]
+write.csv(v,paste("/Volumes/SSG SSD T3/ssd_statgrad/DS2_625/hw4/v",i,".csv",sep=""),
+          row.names=F)
+}
+
+govdata=NULL
+for ( i in 1:28){
+  ph=read.csv(paste("/Volumes/SSG SSD T3/ssd_statgrad/DS2_625/hw4/v",i,".csv",sep=""))
+  govdata=rbind(govdata,ph)
+}

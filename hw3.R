@@ -225,4 +225,4 @@ housing_dataframe[,which(names(housing_dataframe)
 colnames(housing_dataframe)[colnames(housing_dataframe)=="acres"]="exv"
 colnames(housing_dataframe)[colnames(housing_dataframe)=="exval"]="acres"
 colnames(housing_dataframe)[colnames(housing_dataframe)=="exv"]="exval"
-write.csv(housing_dataframe[,-c(1,2)],"/Volumes/SSG SSD T3/ssd_statgrad/DS2_625/test.csv")
+write.csv(housing_dataframe[,-c(1,2)],"/Volumes/SSG SSD T3/ssd_statgrad/DS2_625/test.csv",row.names = F)
