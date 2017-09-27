@@ -1,0 +1,1001 @@
+"V1","V2","V3","V4","V5","V6","V7","V8","V9","V10","V11","V12"
+"1001","18 MANSION ST, New Haven, CT, ","Match","Exact","18 Mansion St, NEW HAVEN, CT, 06512","-72.89366,41.263447",3706007,"L",9,9,142800,3014
+"1002","14 MANSION ST, New Haven, CT, ","Match","Exact","14 Mansion St, NEW HAVEN, CT, 06512","-72.89363,41.2634",3706007,"L",9,9,142800,3014
+"1003","8 MANSION ST, New Haven, CT, ","Match","Exact","8 Mansion St, NEW HAVEN, CT, 06512","-72.89359,41.263336",3706007,"L",9,9,142800,3014
+"1004","4 MANSION ST, New Haven, CT, ","Match","Exact","4 Mansion St, NEW HAVEN, CT, 06512","-72.89356,41.26329",3706007,"L",9,9,142800,3014
+"1005","28 PARKER PL, New Haven, CT, ","Match","Exact","28 Parker Pl, NEW HAVEN, CT, 06512","-72.89386,41.263065",3706017,"L",9,9,142800,3014
+"1006","PARKER PL, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1007","24 PARKER PL, New Haven, CT, ","Match","Exact","24 Parker Pl, NEW HAVEN, CT, 06512","-72.89398,41.263012",3706017,"L",9,9,142800,3014
+"1008","PARKER PL, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1009","18 PARKER PL, New Haven, CT, ","Match","Exact","18 Parker Pl, NEW HAVEN, CT, 06512","-72.89417,41.262936",3706017,"L",9,9,142800,3014
+"1010","207 TOWNSEND AV, New Haven, CT, ","Match","Exact","207 Townsend Ave, NEW HAVEN, CT, 06512","-72.89483,41.262856",3705978,"R",9,9,142800,3014
+"1011","211 TOWNSEND AV, New Haven, CT, ","Match","Exact","211 Townsend Ave, NEW HAVEN, CT, 06512","-72.89492,41.26296",3705978,"R",9,9,142800,3014
+"1012","215 TOWNSEND AV, New Haven, CT, ","Match","Exact","215 Townsend Ave, NEW HAVEN, CT, 06512","-72.895004,41.26306",3705978,"R",9,9,142800,3014
+"1013","219 TOWNSEND AV, New Haven, CT, ","Match","Exact","219 Townsend Ave, NEW HAVEN, CT, 06512","-72.895096,41.263165",3705978,"R",9,9,142800,3014
+"1014","223 TOWNSEND AV, New Haven, CT, ","Match","Exact","223 Townsend Ave, NEW HAVEN, CT, 06512","-72.895195,41.263264",3705978,"R",9,9,142800,3014
+"1015","225 TOWNSEND AV, New Haven, CT, ","Match","Exact","225 Townsend Ave, NEW HAVEN, CT, 06512","-72.89525,41.26331",3705978,"R",9,9,142800,3014
+"1016","229 TOWNSEND AV, New Haven, CT, ","Match","Exact","229 Townsend Ave, NEW HAVEN, CT, 06512","-72.89535,41.26341",3705978,"R",9,9,142800,3014
+"1017","235 TOWNSEND AV, New Haven, CT, ","Match","Exact","235 Townsend Ave, NEW HAVEN, CT, 06512","-72.89549,41.263554",3705978,"R",9,9,142800,3014
+"1018","239 TOWNSEND AV, New Haven, CT, ","Match","Exact","239 Townsend Ave, NEW HAVEN, CT, 06512","-72.89559,41.26365",3705978,"R",9,9,142800,3014
+"1019","241 TOWNSEND AV, New Haven, CT, ","Match","Exact","241 Townsend Ave, NEW HAVEN, CT, 06512","-72.895645,41.2637",3705978,"R",9,9,142800,3014
+"1020","245 TOWNSEND AV, New Haven, CT, ","Match","Exact","245 Townsend Ave, NEW HAVEN, CT, 06512","-72.89575,41.26379",3705978,"R",9,9,142800,3014
+"1021","53 FLORENCE AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1022","57 FLORENCE AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1023","61 FLORENCE AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1024","65 FLORENCE AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1025","69 FLORENCE AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1026","236 CONCORD ST, New Haven, CT, ","Match","Exact","236 Concord St, NEW HAVEN, CT, 06512","-72.893234,41.26421",3706012,"L",9,9,142800,3013
+"1027","230 CONCORD ST, New Haven, CT, ","Match","Exact","230 Concord St, NEW HAVEN, CT, 06512","-72.89316,41.2641",3706012,"L",9,9,142800,3013
+"1028","224 CONCORD ST, New Haven, CT, ","Match","Exact","224 Concord St, NEW HAVEN, CT, 06512","-72.89308,41.263992",3706012,"L",9,9,142800,3013
+"1029","220 CONCORD ST, New Haven, CT, ","Match","Exact","220 Concord St, NEW HAVEN, CT, 06512","-72.89303,41.263924",3706012,"L",9,9,142800,3013
+"1030","210 CONCORD ST, New Haven, CT, ","Match","Exact","210 Concord St, NEW HAVEN, CT, 06512","-72.8929,41.263744",3706012,"L",9,9,142800,3013
+"1031","50 PARKER PL, New Haven, CT, ","Match","Exact","50 Parker Pl, NEW HAVEN, CT, 06512","-72.89314,41.263374",3706018,"L",9,9,142800,3013
+"1032","11 MANSION ST, New Haven, CT, ","Match","Exact","11 Mansion St, NEW HAVEN, CT, 06512","-72.893585,41.26339",3706007,"R",9,9,142800,3013
+"1033","15 MANSION ST, New Haven, CT, ","Match","Exact","15 Mansion St, NEW HAVEN, CT, 06512","-72.893616,41.26343",3706007,"R",9,9,142800,3013
+"1034","25 MANSION ST, New Haven, CT, ","Match","Exact","25 Mansion St, NEW HAVEN, CT, 06512","-72.893684,41.263542",3706007,"R",9,9,142800,3013
+"1035","27 MANSION ST, New Haven, CT, ","Match","Exact","27 Mansion St, NEW HAVEN, CT, 06512","-72.8937,41.263565",3706007,"R",9,9,142800,3013
+"1036","29 MANSION ST, New Haven, CT, ","Match","Exact","29 Mansion St, NEW HAVEN, CT, 06512","-72.893715,41.263588",3706007,"R",9,9,142800,3013
+"1037","33 MANSION ST, New Haven, CT, ","Match","Exact","33 Mansion St, NEW HAVEN, CT, 06512","-72.893745,41.26363",3706007,"R",9,9,142800,3013
+"1038","227 CONCORD ST, New Haven, CT, ","Match","Exact","227 Concord St, NEW HAVEN, CT, 06512","-72.893074,41.264046",3706012,"R",9,9,142800,3011
+"1039","11 NELSON ST, New Haven, CT, ","Match","Exact","11 Nelson St, NEW HAVEN, CT, 06512","-72.89297,41.264324",3706027,"R",9,9,142800,3011
+"1040","15 NELSON ST, New Haven, CT, ","Match","Exact","15 Nelson St, NEW HAVEN, CT, 06512","-72.8929,41.264347",3706027,"R",9,9,142800,3011
+"1041","23 NELSON ST, New Haven, CT, ","Match","Exact","23 Nelson St, NEW HAVEN, CT, 06512","-72.89276,41.264393",3706027,"R",9,9,142800,3011
+"1042","41 NELSON ST, New Haven, CT, ","Match","Exact","41 Nelson St, NEW HAVEN, CT, 06512","-72.89245,41.264496",3706027,"R",9,9,142800,3011
+"1043","47 NELSON ST, New Haven, CT, ","Match","Exact","47 Nelson St, NEW HAVEN, CT, 06512","-72.89234,41.26453",3706027,"R",9,9,142800,3011
+"1044","1610 DEAN ST, New Haven, CT, ","Match","Exact","1610 Dean St, NEW HAVEN, CT, 06512","-72.8913,41.264606",3706028,"L",9,9,142800,3011
+"1045","110 PARKER PL, New Haven, CT, ","Match","Exact","110 Parker Pl, NEW HAVEN, CT, 06512","-72.89215,41.263767",3706032,"L",9,9,142800,3011
+"1046","100 PARKER PL, New Haven, CT, ","Match","Exact","100 Parker Pl, NEW HAVEN, CT, 06512","-72.89226,41.263725",3706032,"L",9,9,142800,3011
+"1047","94 PARKER PL, New Haven, CT, ","Match","Exact","94 Parker Pl, NEW HAVEN, CT, 06512","-72.89233,41.263702",3706032,"L",9,9,142800,3011
+"1048","80 PARKER PL, New Haven, CT, ","Match","Exact","80 Parker Pl, NEW HAVEN, CT, 06512","-72.89248,41.263645",3706032,"L",9,9,142800,3011
+"1049","76 PARKER PL, New Haven, CT, ","Match","Exact","76 Parker Pl, NEW HAVEN, CT, 06512","-72.89252,41.263626",3706032,"L",9,9,142800,3011
+"1050","74 PARKER PL, New Haven, CT, ","Match","Exact","74 Parker Pl, NEW HAVEN, CT, 06512","-72.89254,41.26362",3706032,"L",9,9,142800,3011
+"1051","72 PARKER PL, New Haven, CT, ","Match","Exact","72 Parker Pl, NEW HAVEN, CT, 06512","-72.89256,41.26361",3706032,"L",9,9,142800,3011
+"1052","68 PARKER PL, New Haven, CT, ","Match","Exact","68 Parker Pl, NEW HAVEN, CT, 06512","-72.89261,41.263596",3706032,"L",9,9,142800,3011
+"1053","219 CONCORD ST, New Haven, CT, ","Match","Exact","219 Concord St, NEW HAVEN, CT, 06512","-72.89291,41.263813",3706012,"R",9,9,142800,3011
+"1054","223 CONCORD ST, New Haven, CT, ","Match","Exact","223 Concord St, NEW HAVEN, CT, 06512","-72.89299,41.263927",3706012,"R",9,9,142800,3011
+"1055","168 TOWNSEND AV, New Haven, CT, ","Match","Exact","168 Townsend Ave, NEW HAVEN, CT, 06512","-72.89419,41.261883",3706016,"L",9,9,142800,3017
+"1056","TOWNSEND AV, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1057","154 TOWNSEND AV, New Haven, CT, ","Match","Exact","154 Townsend Ave, NEW HAVEN, CT, 06512","-72.89398,41.261566",3706016,"L",9,9,142800,3017
+"1058","150 TOWNSEND AV, New Haven, CT, ","Match","Exact","150 Townsend Ave, NEW HAVEN, CT, 06512","-72.89392,41.261475",3706016,"L",9,9,142800,3017
+"1059","146 TOWNSEND AV, New Haven, CT, ","Match","Exact","146 Townsend Ave, NEW HAVEN, CT, 06512","-72.89386,41.261383",3706016,"L",9,9,142800,3017
+"1060","144 TOWNSEND AV, New Haven, CT, ","Match","Exact","144 Townsend Ave, NEW HAVEN, CT, 06512","-72.89383,41.261337",3706016,"L",9,9,142800,3017
+"1061","138 TOWNSEND AV, New Haven, CT, ","Match","Exact","138 Townsend Ave, NEW HAVEN, CT, 06512","-72.893745,41.2612",3706016,"L",9,9,142800,3017
+"1062","TOWNSEND AV, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1063","126 TOWNSEND AV, New Haven, CT, ","Match","Exact","126 Townsend Ave, NEW HAVEN, CT, 06512","-72.89354,41.260838",3706042,"L",9,9,142800,3017
+"1064","120 TOWNSEND AV, New Haven, CT, ","Match","Exact","120 Townsend Ave, NEW HAVEN, CT, 06512","-72.89347,41.26069",3706042,"L",9,9,142800,3017
+"1065","112 TOWNSEND AV, New Haven, CT, ","Match","Exact","112 Townsend Ave, NEW HAVEN, CT, 06512","-72.89338,41.260487",3706042,"L",9,9,142800,3017
+"1066","110 TOWNSEND AV, New Haven, CT, ","Match","Exact","110 Townsend Ave, NEW HAVEN, CT, 06512","-72.89336,41.260437",3706042,"L",9,9,142800,3017
+"1067","100 TOWNSEND AV, New Haven, CT, ","Match","Exact","100 Townsend Ave, NEW HAVEN, CT, 06512","-72.8932,41.260193",3706042,"L",9,9,142800,3017
+"1068","92 TOWNSEND AV, New Haven, CT, ","Match","Exact","92 Townsend Ave, NEW HAVEN, CT, 06512","-72.89307,41.260006",3706042,"L",9,9,142800,3017
+"1069","90 TOWNSEND AV, New Haven, CT, ","Match","Exact","90 Townsend Ave, NEW HAVEN, CT, 06512","-72.89303,41.25996",3706042,"L",9,9,142800,3017
+"1070","TOWNSEND AV, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1071","88 TOWNSEND AV, New Haven, CT, ","Match","Exact","88 Townsend Ave, NEW HAVEN, CT, 06512","-72.893,41.259914",3706042,"L",9,9,142800,3017
+"1072","80 TOWNSEND AV, New Haven, CT, ","Match","Exact","80 Townsend Ave, NEW HAVEN, CT, 06512","-72.89282,41.259678",3706043,"L",9,9,142800,3017
+"1073","31 ALDEN ST, New Haven, CT, ","Match","Exact","31 Alden St, NEW HAVEN, CT, 06512","-72.89167,41.2616",3706039,"R",9,9,142800,3002
+"1074","25 ALDEN ST, New Haven, CT, ","Match","Exact","25 Alden St, NEW HAVEN, CT, 06512","-72.891754,41.2616",3706039,"R",9,9,142800,3002
+"1075","1366 DEAN ST, New Haven, CT, ","Match","Exact","1366 Dean St, NEW HAVEN, CT, 06512","-72.89067,41.26114",3706067,"L",9,9,142800,3002
+"1076","1340 DEAN ST, New Haven, CT, ","Match","Exact","1340 Dean St, NEW HAVEN, CT, 06512","-72.890686,41.260777",3706067,"L",9,9,142800,3002
+"1077","1354 DEAN ST, New Haven, CT, ","Match","Exact","1354 Dean St, NEW HAVEN, CT, 06512","-72.89068,41.26097",3706067,"L",9,9,142800,3002
+"1078","1330 DEAN ST, New Haven, CT, ","Match","Exact","1330 Dean St, NEW HAVEN, CT, 06512","-72.890686,41.260635",3706067,"L",9,9,142800,3002
+"1079","1320 DEAN ST, New Haven, CT, ","Match","Exact","1320 Dean St, NEW HAVEN, CT, 06512","-72.89069,41.260498",3706067,"L",9,9,142800,3002
+"1080","1310 DEAN ST, New Haven, CT, ","Match","Exact","1310 Dean St, NEW HAVEN, CT, 06512","-72.8907,41.26036",3706067,"L",9,9,142800,3002
+"1081","1294 DEAN ST, New Haven, CT, ","Match","Exact","1294 Dean St, NEW HAVEN, CT, 06512","-72.89069,41.26013",3706067,"L",9,9,142800,3002
+"1082","1284 DEAN ST, New Haven, CT, ","Match","Exact","1284 Dean St, NEW HAVEN, CT, 06512","-72.89063,41.260002",3706067,"L",9,9,142800,3002
+"1083","1274 DEAN ST, New Haven, CT, ","Match","Exact","1274 Dean St, NEW HAVEN, CT, 06512","-72.890564,41.259872",3706067,"L",9,9,142800,3002
+"1084","1264 DEAN ST, New Haven, CT, ","Match","Exact","1264 Dean St, NEW HAVEN, CT, 06512","-72.890495,41.259743",3706067,"L",9,9,142800,3002
+"1085","1254 DEAN ST, New Haven, CT, ","Match","Exact","1254 Dean St, NEW HAVEN, CT, 06512","-72.89042,41.259613",3706067,"L",9,9,142800,3002
+"1086","1244 DEAN ST, New Haven, CT, ","Match","Exact","1244 Dean St, NEW HAVEN, CT, 06512","-72.89035,41.259487",3706067,"L",9,9,142800,3002
+"1087","1236 DEAN ST, New Haven, CT, ","Match","Exact","1236 Dean St, NEW HAVEN, CT, 06512","-72.89029,41.259384",3706067,"L",9,9,142800,3002
+"1088","1224 DEAN ST, New Haven, CT, ","Match","Exact","1224 Dean St, NEW HAVEN, CT, 06512","-72.8902,41.25923",3706067,"L",9,9,142800,3002
+"1089","50 MORRIS CSWY, New Haven, CT, ","Match","Exact","50 Morris Cswy, NEW HAVEN, CT, 06512","-72.89066,41.258385",3706072,"L",9,9,142800,3002
+"1090","44 MORRIS CSWY, New Haven, CT, ","Match","Exact","44 Morris Cswy, NEW HAVEN, CT, 06512","-72.89075,41.258335",3706072,"L",9,9,142800,3002
+"1091","38 MORRIS CSWY, New Haven, CT, ","Match","Exact","38 Morris Cswy, NEW HAVEN, CT, 06512","-72.89083,41.258286",3706072,"L",9,9,142800,3002
+"1092","32 MORRIS CSWY, New Haven, CT, ","Match","Exact","32 Morris Cswy, NEW HAVEN, CT, 06512","-72.890915,41.25824",3706072,"L",9,9,142800,3002
+"1093","7 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1094","9 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1095","23 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1096","27 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1097","31 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1098","37 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1099","43 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1100","49 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1101","55 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1102","61 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1103","67 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1104","71 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1105","77 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1106","81 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1107","85 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1108","91 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1109","97 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1110","101 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1111","107 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1112","109 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1113","111 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1114","121 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1115","127 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1116","17 ALDEN ST, New Haven, CT, ","Match","Exact","17 Alden St, NEW HAVEN, CT, 06512","-72.89187,41.2616",3706039,"R",9,9,142800,3002
+"1117","37 SHOREHAM RD, New Haven, CT, ","Match","Exact","37 Shoreham Rd, NEW HAVEN, CT, 06512","-72.89305,41.26112",3706035,"R",9,9,142800,3019
+"1118","80 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1119","78 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1120","92 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1121","90 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1122","88 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1123","87 TOWNSEND AV, New Haven, CT, ","Match","Exact","87 Townsend Ave, NEW HAVEN, CT, 06512","-72.89296,41.259922",3706042,"R",9,9,142800,3019
+"1124","89 TOWNSEND AV, New Haven, CT, ","Match","Exact","89 Townsend Ave, NEW HAVEN, CT, 06512","-72.893,41.259968",3706042,"R",9,9,142800,3019
+"1125","TOWNSEND AV, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1126","99 TOWNSEND AV, New Haven, CT, ","Match","Exact","99 Townsend Ave, NEW HAVEN, CT, 06512","-72.89315,41.26018",3706042,"R",9,9,142800,3019
+"1127","105 TOWNSEND AV, New Haven, CT, ","Match","Exact","105 Townsend Ave, NEW HAVEN, CT, 06512","-72.89325,41.26031",3706042,"R",9,9,142800,3019
+"1128","115 TOWNSEND AV, New Haven, CT, ","Match","Exact","115 Townsend Ave, NEW HAVEN, CT, 06512","-72.893364,41.260536",3706042,"R",9,9,142800,3019
+"1129","117 TOWNSEND AV, New Haven, CT, ","Match","Exact","117 Townsend Ave, NEW HAVEN, CT, 06512","-72.89339,41.260582",3706042,"R",9,9,142800,3019
+"1130","129 TOWNSEND AV, New Haven, CT, ","Match","Exact","129 Townsend Ave, NEW HAVEN, CT, 06512","-72.89352,41.26086",3706042,"R",9,9,142800,3019
+"1131","17 SHOREHAM RD, New Haven, CT, ","Match","Exact","17 Shoreham Rd, NEW HAVEN, CT, 06512","-72.89333,41.26108",3706035,"R",9,9,142800,3019
+"1132","19 SHOREHAM RD, New Haven, CT, ","Match","Exact","19 Shoreham Rd, NEW HAVEN, CT, 06512","-72.8933,41.261086",3706035,"R",9,9,142800,3019
+"1133","25 SHOREHAM RD, New Haven, CT, ","Match","Exact","25 Shoreham Rd, NEW HAVEN, CT, 06512","-72.89322,41.261097",3706035,"R",9,9,142800,3019
+"1134","33 SHOREHAM RD, New Haven, CT, ","Match","Exact","33 Shoreham Rd, NEW HAVEN, CT, 06512","-72.89311,41.261112",3706035,"R",9,9,142800,3019
+"1135","51 BEECHER PL, New Haven, CT, ","Match","Exact","51 Beecher Pl, NEW HAVEN, CT, 06512","-72.89331,41.262466",3706030,"R",9,9,142800,3018
+"1136","156 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1137","150 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1138","146 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1139","140 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1140","136 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1141","132 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1142","36 SHOREHAM RD, New Haven, CT, ","Match","Exact","36 Shoreham Rd, NEW HAVEN, CT, 06512","-72.893074,41.261143",3706035,"L",9,9,142800,3018
+"1143","32 SHOREHAM RD, New Haven, CT, ","Match","Exact","32 Shoreham Rd, NEW HAVEN, CT, 06512","-72.893135,41.261135",3706035,"L",9,9,142800,3018
+"1144","28 SHOREHAM RD, New Haven, CT, ","Match","Exact","28 Shoreham Rd, NEW HAVEN, CT, 06512","-72.89319,41.261127",3706035,"L",9,9,142800,3018
+"1145","22 SHOREHAM RD, New Haven, CT, ","Match","Exact","22 Shoreham Rd, NEW HAVEN, CT, 06512","-72.89327,41.261116",3706035,"L",9,9,142800,3018
+"1146","16 SHOREHAM RD, New Haven, CT, ","Match","Exact","16 Shoreham Rd, NEW HAVEN, CT, 06512","-72.89336,41.261105",3706035,"L",9,9,142800,3018
+"1147","14 SHOREHAM RD, New Haven, CT, ","Match","Exact","14 Shoreham Rd, NEW HAVEN, CT, 06512","-72.89339,41.2611",3706035,"L",9,9,142800,3018
+"1148","139 TOWNSEND AV, New Haven, CT, ","Match","Exact","139 Townsend Ave, NEW HAVEN, CT, 06512","-72.893684,41.26117",3706016,"R",9,9,142800,3018
+"1149","143 TOWNSEND AV, New Haven, CT, ","Match","Exact","143 Townsend Ave, NEW HAVEN, CT, 06512","-72.893745,41.26127",3706016,"R",9,9,142800,3018
+"1150","147 TOWNSEND AV, New Haven, CT, ","Match","Exact","147 Townsend Ave, NEW HAVEN, CT, 06512","-72.893814,41.26137",3706016,"R",9,9,142800,3018
+"1151","151 TOWNSEND AV, New Haven, CT, ","Match","Exact","151 Townsend Ave, NEW HAVEN, CT, 06512","-72.893875,41.26147",3706016,"R",9,9,142800,3018
+"1152","155 TOWNSEND AV, New Haven, CT, ","Match","Exact","155 Townsend Ave, NEW HAVEN, CT, 06512","-72.89394,41.26157",3706016,"R",9,9,142800,3018
+"1153","165 TOWNSEND AV, New Haven, CT, ","Match","Exact","165 Townsend Ave, NEW HAVEN, CT, 06512","-72.89411,41.26182",3706016,"R",9,9,142800,3018
+"1154","171 TOWNSEND AV, New Haven, CT, ","Match","Exact","171 Townsend Ave, NEW HAVEN, CT, 06512","-72.8942,41.261974",3706016,"R",9,9,142800,3018
+"1155","15 BEECHER PL, New Haven, CT, ","Match","Exact","15 Beecher Pl, NEW HAVEN, CT, 06512","-72.89399,41.262268",3706030,"R",9,9,142800,3018
+"1156","23 BEECHER PL, New Haven, CT, ","Match","Exact","23 Beecher Pl, NEW HAVEN, CT, 06512","-72.89384,41.262314",3706030,"R",9,9,142800,3018
+"1157","37 BEECHER PL, New Haven, CT, ","Match","Exact","37 Beecher Pl, NEW HAVEN, CT, 06512","-72.89357,41.26239",3706030,"R",9,9,142800,3018
+"1158","39 BEECHER PL, New Haven, CT, ","Match","Exact","39 Beecher Pl, NEW HAVEN, CT, 06512","-72.89353,41.2624",3706030,"R",9,9,142800,3018
+"1159","41 BEECHER PL, New Haven, CT, ","Match","Exact","41 Beecher Pl, NEW HAVEN, CT, 06512","-72.89349,41.26241",3706030,"R",9,9,142800,3018
+"1160","45 BEECHER PL, New Haven, CT, ","Match","Exact","45 Beecher Pl, NEW HAVEN, CT, 06512","-72.893425,41.262432",3706030,"R",9,9,142800,3018
+"1161","49 BEECHER PL, New Haven, CT, ","Match","Exact","49 Beecher Pl, NEW HAVEN, CT, 06512","-72.89335,41.262455",3706030,"R",9,9,142800,3018
+"1162","35 EDEN ST, New Haven, CT, ","Match","Exact","35 Eden St, NEW HAVEN, CT, 06512","-72.89163,41.262283",3706037,"R",9,9,142800,3003
+"1163","1414 DEAN ST, New Haven, CT, ","Match","Exact","1414 Dean St, NEW HAVEN, CT, 06512","-72.89065,41.26186",3706038,"L",9,9,142800,3003
+"1164","30 ALDEN ST, New Haven, CT, ","Match","Exact","30 Alden St, NEW HAVEN, CT, 06512","-72.891685,41.26163",3706039,"L",9,9,142800,3003
+"1165","14 ALDEN ST, New Haven, CT, ","Match","Exact","14 Alden St, NEW HAVEN, CT, 06512","-72.891914,41.261627",3706039,"L",9,9,142800,3003
+"1166","20 ALDEN ST, New Haven, CT, ","Match","Exact","20 Alden St, NEW HAVEN, CT, 06512","-72.89183,41.261627",3706039,"L",9,9,142800,3003
+"1167","135 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1168","141 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1169","145 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1170","151 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1171","11 EDEN ST, New Haven, CT, ","Match","Exact","11 Eden St, NEW HAVEN, CT, 06512","-72.89198,41.26228",3706037,"R",9,9,142800,3003
+"1172","15 EDEN ST, New Haven, CT, ","Match","Exact","15 Eden St, NEW HAVEN, CT, 06512","-72.89192,41.26228",3706037,"R",9,9,142800,3003
+"1173","21 EDEN ST, New Haven, CT, ","Match","Exact","21 Eden St, NEW HAVEN, CT, 06512","-72.89184,41.26228",3706037,"R",9,9,142800,3003
+"1174","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1175","25 EDEN ST, New Haven, CT, ","Match","Exact","25 Eden St, NEW HAVEN, CT, 06512","-72.89178,41.26228",3706037,"R",9,9,142800,3003
+"1176","41 ARDEN ST, New Haven, CT, ","Match","Exact","41 Arden St, NEW HAVEN, CT, 06512","-72.89164,41.263134",3706040,"R",9,9,142800,3001
+"1177","1500 DEAN ST, New Haven, CT, ","Match","Exact","1500 Dean St, NEW HAVEN, CT, 06512","-72.89057,41.263073",3706041,"L",9,9,142800,3001
+"1178","1490 DEAN ST, New Haven, CT, ","Match","Exact","1490 Dean St, NEW HAVEN, CT, 06512","-72.89058,41.262894",3706041,"L",9,9,142800,3001
+"1179","34 EDEN ST, New Haven, CT, ","Match","Exact","34 Eden St, NEW HAVEN, CT, 06512","-72.89165,41.26231",3706037,"L",9,9,142800,3001
+"1180","26 EDEN ST, New Haven, CT, ","Match","Exact","26 Eden St, NEW HAVEN, CT, 06512","-72.89177,41.26231",3706037,"L",9,9,142800,3001
+"1181","20 EDEN ST, New Haven, CT, ","Match","Exact","20 Eden St, NEW HAVEN, CT, 06512","-72.89186,41.26231",3706037,"L",9,9,142800,3001
+"1182","14 EDEN ST, New Haven, CT, ","Match","Exact","14 Eden St, NEW HAVEN, CT, 06512","-72.89195,41.262306",3706037,"L",9,9,142800,3001
+"1183","161 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1184","165 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1185","169 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1186","11 ARDEN ST, New Haven, CT, ","Match","Exact","11 Arden St, NEW HAVEN, CT, 06512","-72.89211,41.26298",3706040,"R",9,9,142800,3001
+"1187","15 ARDEN ST, New Haven, CT, ","Match","Exact","15 Arden St, NEW HAVEN, CT, 06512","-72.89205,41.263",3706040,"R",9,9,142800,3001
+"1188","17 ARDEN ST, New Haven, CT, ","Match","Exact","17 Arden St, NEW HAVEN, CT, 06512","-72.89202,41.263012",3706040,"R",9,9,142800,3001
+"1189","31 ARDEN ST, New Haven, CT, ","Match","Exact","31 Arden St, NEW HAVEN, CT, 06512","-72.8918,41.263084",3706040,"R",9,9,142800,3001
+"1190","33 ARDEN ST, New Haven, CT, ","Match","Exact","33 Arden St, NEW HAVEN, CT, 06512","-72.89176,41.263092",3706040,"R",9,9,142800,3001
+"1191","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1192","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1193","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1194","208 COVE ST, New Haven, CT, ","Match","Exact","208 Cove St, NEW HAVEN, CT, 06512","-72.89344,41.256237",3706059,"L",9,9,142800,3017
+"1195","78 TOWNSEND AV, New Haven, CT, ","Match","Exact","78 Townsend Ave, NEW HAVEN, CT, 06512","-72.89279,41.259636",3706043,"L",9,9,142800,3017
+"1196","74 TOWNSEND AV, New Haven, CT, ","Match","Exact","74 Townsend Ave, NEW HAVEN, CT, 06512","-72.89273,41.259556",3706043,"L",9,9,142800,3017
+"1197","70 TOWNSEND AV, New Haven, CT, ","Match","Exact","70 Townsend Ave, NEW HAVEN, CT, 06512","-72.89268,41.25947",3706043,"L",9,9,142800,3017
+"1198","66 TOWNSEND AV, New Haven, CT, ","Match","Exact","66 Townsend Ave, NEW HAVEN, CT, 06512","-72.89262,41.259388",3706043,"L",9,9,142800,3017
+"1199","60 TOWNSEND AV, New Haven, CT, ","Match","Exact","60 Townsend Ave, NEW HAVEN, CT, 06512","-72.892525,41.259266",3706043,"L",9,9,142800,3017
+"1200","56 TOWNSEND AV, New Haven, CT, ","Match","Exact","56 Townsend Ave, NEW HAVEN, CT, 06512","-72.89246,41.259182",3706043,"L",9,9,142800,3017
+"1201","48 TOWNSEND AV, New Haven, CT, ","Match","Exact","48 Townsend Ave, NEW HAVEN, CT, 06512","-72.89234,41.259018",3706043,"L",9,9,142800,3017
+"1202","42 TOWNSEND AV, New Haven, CT, ","Match","Exact","42 Townsend Ave, NEW HAVEN, CT, 06512","-72.89225,41.258896",3706043,"L",9,9,142800,3017
+"1203","94 MORRIS COVE RD, New Haven, CT, ","Match","Exact","94 Morris Cove Rd, NEW HAVEN, CT, 06512","-72.892265,41.25869",3706068,"L",9,9,142800,3017
+"1204","90 MORRIS COVE RD, New Haven, CT, ","Match","Exact","90 Morris Cove Rd, NEW HAVEN, CT, 06512","-72.89229,41.258617",3706068,"L",9,9,142800,3017
+"1205","86 MORRIS COVE RD, New Haven, CT, ","Match","Exact","86 Morris Cove Rd, NEW HAVEN, CT, 06512","-72.89231,41.258545",3706068,"L",9,9,142800,3017
+"1206","82 MORRIS COVE RD, New Haven, CT, ","Match","Exact","82 Morris Cove Rd, NEW HAVEN, CT, 06512","-72.89233,41.258472",3706068,"L",9,9,142800,3017
+"1207","76 MORRIS COVE RD, New Haven, CT, ","Match","Exact","76 Morris Cove Rd, NEW HAVEN, CT, 06512","-72.892365,41.258366",3706068,"L",9,9,142800,3017
+"1208","70 MORRIS COVE RD, New Haven, CT, ","Match","Exact","70 Morris Cove Rd, NEW HAVEN, CT, 06512","-72.892395,41.258255",3706068,"L",9,9,142800,3017
+"1209","64 MORRIS COVE RD, New Haven, CT, ","Match","Exact","64 Morris Cove Rd, NEW HAVEN, CT, 06512","-72.892426,41.25815",3706068,"L",9,9,142800,3017
+"1210","56 MORRIS COVE RD, New Haven, CT, ","Match","Exact","56 Morris Cove Rd, NEW HAVEN, CT, 06512","-72.89246,41.258003",3706068,"L",9,9,142800,3017
+"1211","50 MORRIS COVE RD, New Haven, CT, ","Match","Exact","50 Morris Cove Rd, NEW HAVEN, CT, 06512","-72.892494,41.257896",3706068,"L",9,9,142800,3017
+"1212","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1213","509 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","509 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.8918,41.257114",3706070,"R",9,9,142800,3004
+"1214","22 TOWNSEND AV, New Haven, CT, ","Match","Exact","22 Townsend Ave, NEW HAVEN, CT, 06512","-72.89123,41.25757",3706074,"L",9,9,142800,3004
+"1215","TOWNSEND AV, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1216","20 TOWNSEND AV, New Haven, CT, ","Match","Exact","20 Townsend Ave, NEW HAVEN, CT, 06512","-72.89108,41.257385",3706074,"L",9,9,142800,3004
+"1217","18 TOWNSEND AV, New Haven, CT, ","Match","Exact","18 Townsend Ave, NEW HAVEN, CT, 06512","-72.89094,41.257202",3706074,"L",9,9,142800,3004
+"1218","16 TOWNSEND AV, New Haven, CT, ","Match","Exact","16 Townsend Ave, NEW HAVEN, CT, 06512","-72.89081,41.25702",3706074,"L",9,9,142800,3004
+"1219","14 TOWNSEND AV, New Haven, CT, ","Match","Exact","14 Townsend Ave, NEW HAVEN, CT, 06512","-72.890816,41.25681",3706074,"L",9,9,142800,3004
+"1220","12 TOWNSEND AV, New Haven, CT, ","Match","Exact","12 Townsend Ave, NEW HAVEN, CT, 06512","-72.89089,41.256607",3706074,"L",9,9,142800,3004
+"1221","10 TOWNSEND AV, New Haven, CT, ","Match","Exact","10 Townsend Ave, NEW HAVEN, CT, 06512","-72.89096,41.256508",3706075,"L",9,9,142800,3004
+"1222","8 TOWNSEND AV, New Haven, CT, ","Match","Exact","8 Townsend Ave, NEW HAVEN, CT, 06512","-72.891106,41.256275",3706075,"L",9,9,142800,3004
+"1223","6 TOWNSEND AV, New Haven, CT, ","Match","Exact","6 Townsend Ave, NEW HAVEN, CT, 06512","-72.89124,41.256046",3706075,"L",9,9,142800,3004
+"1224","4 TOWNSEND AV, New Haven, CT, ","Match","Exact","4 Townsend Ave, NEW HAVEN, CT, 06512","-72.89138,41.255817",3706075,"L",9,9,142800,3004
+"1225","8 DOUGLASS AV, New Haven, CT, ","Match","Exact","8 Douglass Ave, NEW HAVEN, CT, 06512","-72.89143,41.255802",3706061,"L",9,9,142800,3004
+"1226","453 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","453 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89234,41.25624",618696443,"R",9,9,142800,3004
+"1227","457 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","457 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89228,41.256344",618696444,"R",9,9,142800,3004
+"1228","461 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","461 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.892204,41.25646",618696444,"R",9,9,142800,3004
+"1229","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1230","471 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","471 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89203,41.25674",618696444,"R",9,9,142800,3004
+"1231","475 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","475 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.891945,41.25687",3706070,"R",9,9,142800,3004
+"1232","479 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","479 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89193,41.2569",3706070,"R",9,9,142800,3004
+"1233","485 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","485 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.8919,41.256943",3706070,"R",9,9,142800,3004
+"1234","491 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","491 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89188,41.256985",3706070,"R",9,9,142800,3004
+"1235","499 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","499 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.891846,41.257042",3706070,"R",9,9,142800,3004
+"1236","38 TOWNSEND AV, New Haven, CT, ","Match","Exact","38 Townsend Ave, NEW HAVEN, CT, 06512","-72.892075,41.258663",3706069,"L",9,9,142800,3021
+"1237","32 TOWNSEND AV, New Haven, CT, ","Match","Exact","32 Townsend Ave, NEW HAVEN, CT, 06512","-72.89176,41.258266",3706069,"L",9,9,142800,3021
+"1238","30 TOWNSEND AV, New Haven, CT, ","Match","Exact","30 Townsend Ave, NEW HAVEN, CT, 06512","-72.89166,41.258133",3706069,"L",9,9,142800,3021
+"1239","TOWNSEND AV, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1240","28 TOWNSEND AV, New Haven, CT, ","Match","Exact","28 Townsend Ave, NEW HAVEN, CT, 06512","-72.891556,41.258",3706069,"L",9,9,142800,3021
+"1241","26 TOWNSEND AV, New Haven, CT, ","Match","Exact","26 Townsend Ave, NEW HAVEN, CT, 06512","-72.891464,41.257866",3706069,"L",9,9,142800,3021
+"1242","488 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","488 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89177,41.25724",3706070,"L",9,9,142800,3021
+"1243","506 LIGHTHOUSE RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1244","502 LIGHTHOUSE RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1245","496 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","496 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.891556,41.2576",3706070,"L",9,9,142800,3021
+"1246","490 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","490 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.891716,41.257328",3706070,"L",9,9,142800,3021
+"1247","482 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","482 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89192,41.25697",3706070,"L",9,9,142800,3021
+"1248","35 MORRIS COVE RD, New Haven, CT, ","Match","Exact","35 Morris Cove Rd, NEW HAVEN, CT, 06512","-72.89268,41.257175",3706068,"R",9,9,142800,3021
+"1249","43 MORRIS COVE RD, New Haven, CT, ","Match","Exact","43 Morris Cove Rd, NEW HAVEN, CT, 06512","-72.89267,41.25721",3706068,"R",9,9,142800,3021
+"1250","47 MORRIS COVE RD, New Haven, CT, ","Match","Exact","47 Morris Cove Rd, NEW HAVEN, CT, 06512","-72.89266,41.25723",3706068,"R",9,9,142800,3021
+"1251","53 MORRIS COVE RD, New Haven, CT, ","Match","Exact","53 Morris Cove Rd, NEW HAVEN, CT, 06512","-72.892654,41.25725",3706068,"R",9,9,142800,3021
+"1252","57 MORRIS COVE RD, New Haven, CT, ","Match","Exact","57 Morris Cove Rd, NEW HAVEN, CT, 06512","-72.89265,41.25727",3706068,"R",9,9,142800,3021
+"1253","67 MORRIS COVE RD, New Haven, CT, ","Match","Exact","67 Morris Cove Rd, NEW HAVEN, CT, 06512","-72.89263,41.257313",3706068,"R",9,9,142800,3021
+"1254","MORRIS COVE RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1255","MORRIS COVE RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1256","MORRIS COVE RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1257","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1258","70 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1259","66 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1260","60 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1261","54 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1262","50 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1263","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1264","42 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1265","38 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1266","30 CONCORD ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1267","27 TOWNSEND AV, New Haven, CT, ","Match","Exact","27 Townsend Ave, NEW HAVEN, CT, 06512","-72.89143,41.257877",3706069,"R",9,9,142800,3020
+"1268","27 TOWNSEND AV, New Haven, CT, ","Match","Exact","27 Townsend Ave, NEW HAVEN, CT, 06512","-72.89143,41.257877",3706069,"R",9,9,142800,3020
+"1269","29 TOWNSEND AV, New Haven, CT, ","Match","Exact","29 Townsend Ave, NEW HAVEN, CT, 06512","-72.89157,41.258068",3706069,"R",9,9,142800,3020
+"1270","33 TOWNSEND AV, New Haven, CT, ","Match","Exact","33 Townsend Ave, NEW HAVEN, CT, 06512","-72.89185,41.25844",3706069,"R",9,9,142800,3020
+"1271","35 TOWNSEND AV, New Haven, CT, ","Match","Exact","35 Townsend Ave, NEW HAVEN, CT, 06512","-72.892,41.258625",3706069,"R",9,9,142800,3020
+"1272","41 TOWNSEND AV, New Haven, CT, ","Match","Exact","41 Townsend Ave, NEW HAVEN, CT, 06512","-72.89225,41.25895",3706043,"R",9,9,142800,3020
+"1273","TOWNSEND AV, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1274","43 TOWNSEND AV, New Haven, CT, ","Match","Exact","43 Townsend Ave, NEW HAVEN, CT, 06512","-72.89228,41.258987",3706043,"R",9,9,142800,3020
+"1275","45 TOWNSEND AV, New Haven, CT, ","Match","Exact","45 Townsend Ave, NEW HAVEN, CT, 06512","-72.8923,41.259026",3706043,"R",9,9,142800,3020
+"1276","49 TOWNSEND AV, New Haven, CT, ","Match","Exact","49 Townsend Ave, NEW HAVEN, CT, 06512","-72.892365,41.259106",3706043,"R",9,9,142800,3020
+"1277","53 TOWNSEND AV, New Haven, CT, ","Match","Exact","53 Townsend Ave, NEW HAVEN, CT, 06512","-72.89242,41.259182",3706043,"R",9,9,142800,3020
+"1278","57 TOWNSEND AV, New Haven, CT, ","Match","Exact","57 Townsend Ave, NEW HAVEN, CT, 06512","-72.89248,41.259262",3706043,"R",9,9,142800,3020
+"1279","61 TOWNSEND AV, New Haven, CT, ","Match","Exact","61 Townsend Ave, NEW HAVEN, CT, 06512","-72.89254,41.259342",3706043,"R",9,9,142800,3020
+"1280","65 TOWNSEND AV, New Haven, CT, ","Match","Exact","65 Townsend Ave, NEW HAVEN, CT, 06512","-72.89259,41.25942",3706043,"R",9,9,142800,3020
+"1281","67 TOWNSEND AV, New Haven, CT, ","Match","Exact","67 Townsend Ave, NEW HAVEN, CT, 06512","-72.892624,41.25946",3706043,"R",9,9,142800,3020
+"1282","75 TOWNSEND AV, New Haven, CT, ","Match","Exact","75 Townsend Ave, NEW HAVEN, CT, 06512","-72.89274,41.259617",3706043,"R",9,9,142800,3020
+"1283","81 TOWNSEND AV, New Haven, CT, ","Match","Exact","81 Townsend Ave, NEW HAVEN, CT, 06512","-72.89282,41.259735",3706043,"R",9,9,142800,3020
+"1284","1 DOUGLASS AV, New Haven, CT, ","Match","Exact","1 Douglass Ave, NEW HAVEN, CT, 06512","-72.892395,41.25607",3706061,"R",9,9,142800,4003
+"1285","2 TOWNSEND AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1286","129 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","129 Ocean View St, NEW HAVEN, CT, 06512","-72.89508,41.253563",3706085,"R",9,9,142800,4013
+"1287","125 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","125 Ocean View St, NEW HAVEN, CT, 06512","-72.89507,41.253464",3706085,"R",9,9,142800,4013
+"1288","55 CLIFFORD TER, New Haven, CT, ","Match","Exact","55 Clifford Ter, NEW HAVEN, CT, 06512","-72.89482,41.253597",3706086,"R",9,9,142800,4013
+"1289","59 CLIFFORD TER, New Haven, CT, ","Match","Exact","59 Clifford Ter, NEW HAVEN, CT, 06512","-72.89475,41.2536",3706086,"R",9,9,142800,4013
+"1290","CLIFFORD TER, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1291","106 MEADOW VIEW TER, New Haven, CT, ","Match","Exact","106 Meadow View Ter, NEW HAVEN, CT, 06512","-72.893364,41.253036",617673310,"L",9,9,142800,4013
+"1292","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1293","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1294","104 MEADOW VIEW ST, New Haven, CT, ","Match","Exact","104 Meadow View St, NEW HAVEN, CT, 06512","-72.89398,41.252655",617673307,"L",9,9,142800,4013
+"1295","100 MEADOW VIEW ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1296","58 SHEPARD AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1297","54 SHEPARD AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1298","50 SHEPARD AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1299","115 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","115 Ocean View St, NEW HAVEN, CT, 06512","-72.89505,41.253216",3706085,"R",9,9,142800,4013
+"1300","415 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","415 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.893166,41.255363",3706064,"R",9,9,142800,4013
+"1301","340 MARION ST, New Haven, CT, ","Match","Exact","340 Marion St, NEW HAVEN, CT, 06512","-72.89251,41.2545",3745432,"L",9,9,142800,4013
+"1302","334 MARION ST, New Haven, CT, ","Match","Exact","334 Marion St, NEW HAVEN, CT, 06512","-72.89246,41.254414",3745432,"L",9,9,142800,4013
+"1303","328 MARION ST, New Haven, CT, ","Match","Exact","328 Marion St, NEW HAVEN, CT, 06512","-72.892426,41.25433",3745432,"L",9,9,142800,4013
+"1304","324 MARION ST, New Haven, CT, ","Match","Exact","324 Marion St, NEW HAVEN, CT, 06512","-72.892395,41.25427",3745432,"L",9,9,142800,4013
+"1305","6 CONSTANCE ST, New Haven, CT, ","Match","Exact","6 Constance St, NEW HAVEN, CT, 06512","-72.8931,41.253876",3745433,"R",9,9,142800,4013
+"1306","7 CONSTANCE ST, New Haven, CT, ","Match","Exact","7 Constance St, NEW HAVEN, CT, 06512","-72.892334,41.253826",3745433,"L",9,9,142800,4013
+"1307","314 MARION ST, New Haven, CT, ","Match","Exact","314 Marion St, NEW HAVEN, CT, 06512","-72.89233,41.254124",3745432,"L",9,9,142800,4013
+"1308","308 MARION ST, New Haven, CT, ","Match","Exact","308 Marion St, NEW HAVEN, CT, 06512","-72.892296,41.254036",3745432,"L",9,9,142800,4013
+"1309","300 MARION ST, New Haven, CT, ","Match","Exact","300 Marion St, NEW HAVEN, CT, 06512","-72.892265,41.253918",3745432,"L",9,9,142800,4013
+"1310","296 MARION ST, New Haven, CT, ","Match","Exact","296 Marion St, NEW HAVEN, CT, 06512","-72.89225,41.253777",3745431,"L",9,9,142800,4013
+"1311","286 MARION ST, New Haven, CT, ","Match","Exact","286 Marion St, NEW HAVEN, CT, 06512","-72.89226,41.2537",3745431,"L",9,9,142800,4013
+"1312","280 MARION ST, New Haven, CT, ","Match","Exact","280 Marion St, NEW HAVEN, CT, 06512","-72.89226,41.25366",3745431,"L",9,9,142800,4013
+"1313","272 MARION ST, New Haven, CT, ","Match","Exact","272 Marion St, NEW HAVEN, CT, 06512","-72.89229,41.253597",3745431,"L",9,9,142800,4013
+"1314","264 MARION ST, New Haven, CT, ","Match","Exact","264 Marion St, NEW HAVEN, CT, 06512","-72.89232,41.25354",3745431,"L",9,9,142800,4013
+"1315","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1316","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1317","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1318","62 CLIFFORD TER, New Haven, CT, ","Match","Exact","62 Clifford Ter, NEW HAVEN, CT, 06512","-72.89469,41.25363",3706086,"L",9,9,142800,4013
+"1319","60 CLIFFORD TER, New Haven, CT, ","Match","Exact","60 Clifford Ter, NEW HAVEN, CT, 06512","-72.89473,41.25363",3706086,"L",9,9,142800,4013
+"1320","137 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","137 Ocean View St, NEW HAVEN, CT, 06512","-72.8951,41.253822",3706049,"R",9,9,142800,4013
+"1321","143 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","143 Ocean View St, NEW HAVEN, CT, 06512","-72.89512,41.253986",3706049,"R",9,9,142800,4013
+"1322","147 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","147 Ocean View St, NEW HAVEN, CT, 06512","-72.89513,41.254093",3706049,"R",9,9,142800,4013
+"1323","157 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","157 Ocean View St, NEW HAVEN, CT, 06512","-72.89515,41.254364",3706049,"R",9,9,142800,4013
+"1324","161 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","161 Ocean View St, NEW HAVEN, CT, 06512","-72.895164,41.25447",3706049,"R",9,9,142800,4013
+"1325","163 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","163 Ocean View St, NEW HAVEN, CT, 06512","-72.895164,41.254524",3706049,"R",9,9,142800,4013
+"1326","167 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","167 Ocean View St, NEW HAVEN, CT, 06512","-72.89518,41.254635",3706049,"R",9,9,142800,4013
+"1327","357 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","357 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.895134,41.25498",3706051,"R",9,9,142800,4013
+"1328","361 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","361 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.895035,41.254997",3706051,"R",9,9,142800,4013
+"1329","365 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","365 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89494,41.255016",3706051,"R",9,9,142800,4013
+"1330","28 ANTHONY DR, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1331","24 ANTHONY DR, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1332","18 ANTHONY DR, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1333","12 ANTHONY DR, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1334","6 ANTHONY DR, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1335","ANTHONY DR, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1336","3 ANTHONY DR, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1337","9 ANTHONY DR, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1338","15 ANTHONY DR, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1339","21 ANTHONY DR, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1340","ANTHONY DR, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1341","27 ANTHONY DR, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1342","387 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","387 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89434,41.255142",3706064,"R",9,9,142800,4013
+"1343","397 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","397 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89392,41.25522",3706064,"R",9,9,142800,4013
+"1344","401 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","401 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89375,41.255253",3706064,"R",9,9,142800,4013
+"1345","411 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","411 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89333,41.25533",3706064,"R",9,9,142800,4013
+"1346","435 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","435 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89267,41.255695",3706062,"R",9,9,142800,4001
+"1347","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1348","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1349","230 SOUTH END RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1350","220 SOUTH END RD, New Haven, CT, ","Match","Exact","220 S End Rd, NEW HAVEN, CT, 06512","-72.89118,41.25392",3706077,"R",9,9,142800,4000
+"1351","214 SOUTH END RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1352","210 SOUTH END RD, New Haven, CT, ","Match","Exact","210 S End Rd, NEW HAVEN, CT, 06512","-72.89146,41.254925",3706077,"L",9,9,142800,4001
+"1353","194 SOUTH END RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1354","184 SOUTH END RD, New Haven, CT, ","Match","Exact","184 S End Rd, NEW HAVEN, CT, 06512","-72.89186,41.24721",3744799,"L",9,9,180100,5008
+"1355","182 SOUTH END RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1356","172 SOUTH END RD, New Haven, CT, ","Match","Exact","172 S End Rd, NEW HAVEN, CT, 06512","-72.89283,41.246906",3744799,"L",9,9,180100,5008
+"1357","158 SOUTH END RD, New Haven, CT, ","Match","Exact","158 S End Rd, NEW HAVEN, CT, 06512","-72.89186,41.24721",3744799,"L",9,9,180100,5008
+"1358","144 SOUTH END RD, New Haven, CT, ","Match","Exact","144 S End Rd, NEW HAVEN, CT, 06512","-72.89146,41.254925",3706077,"L",9,9,142800,4001
+"1359","180 MEADOW VIEW ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1360","174 MEADOW VIEW ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1361","170 MEADOW VIEW ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1362","158 MEADOW VIEW ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1363","168 MEADOW VIEW ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1364","265 MARION ST, New Haven, CT, ","Match","Exact","265 Marion St, NEW HAVEN, CT, 06512","-72.892296,41.253494",3745431,"R",9,9,142800,4001
+"1365","279 MARION ST, New Haven, CT, ","Match","Exact","279 Marion St, NEW HAVEN, CT, 06512","-72.89225,41.25359",3745431,"R",9,9,142800,4001
+"1366","285 MARION ST, New Haven, CT, ","Match","Exact","285 Marion St, NEW HAVEN, CT, 06512","-72.892235,41.25363",3745431,"R",9,9,142800,4001
+"1367","307 MARION ST, New Haven, CT, ","Match","Exact","307 Marion St, NEW HAVEN, CT, 06512","-72.89222,41.25379",3745431,"R",9,9,142800,4001
+"1368","309 MARION ST, New Haven, CT, ","Match","Exact","309 Marion St, NEW HAVEN, CT, 06512","-72.892235,41.25392",3745432,"R",9,9,142800,4001
+"1369","309 MARION ST #1/2, New Haven, CT, ","Match","Exact","309 Marion St, NEW HAVEN, CT, 06512","-72.892235,41.25392",3745432,"R",9,9,142800,4001
+"1370","311 MARION ST, New Haven, CT, ","Match","Exact","311 Marion St, NEW HAVEN, CT, 06512","-72.89224,41.253956",3745432,"R",9,9,142800,4001
+"1371","315 MARION ST, New Haven, CT, ","Match","Exact","315 Marion St, NEW HAVEN, CT, 06512","-72.89226,41.25402",3745432,"R",9,9,142800,4001
+"1372","319 MARION ST, New Haven, CT, ","Match","Exact","319 Marion St, NEW HAVEN, CT, 06512","-72.89227,41.254086",3745432,"R",9,9,142800,4001
+"1373","323 MARION ST, New Haven, CT, ","Match","Exact","323 Marion St, NEW HAVEN, CT, 06512","-72.8923,41.25415",3745432,"R",9,9,142800,4001
+"1374","329 MARION ST, New Haven, CT, ","Match","Exact","329 Marion St, NEW HAVEN, CT, 06512","-72.89235,41.254246",3745432,"R",9,9,142800,4001
+"1375","337 MARION ST, New Haven, CT, ","Match","Exact","337 Marion St, NEW HAVEN, CT, 06512","-72.89241,41.25437",3745432,"R",9,9,142800,4001
+"1376","341 MARION ST, New Haven, CT, ","Match","Exact","341 Marion St, NEW HAVEN, CT, 06512","-72.89244,41.254436",3745432,"R",9,9,142800,4001
+"1377","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1378","425 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","425 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89281,41.255497",3706062,"R",9,9,142800,4001
+"1379","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1380","149 COVE ST, New Haven, CT, ","Match","Exact","149 Cove St, NEW HAVEN, CT, 06512","-72.89514,41.25567",618696447,"R",9,9,142800,4020
+"1381","190 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","190 Ocean View St, NEW HAVEN, CT, 06512","-72.89525,41.255066",3706047,"L",9,9,142800,4020
+"1382","346 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","346 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.895615,41.25492",3706048,"L",9,9,142800,4020
+"1383","338 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","338 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89588,41.254864",3706048,"L",9,9,142800,4020
+"1384","330 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","330 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89616,41.254807",3706048,"L",9,9,142800,4020
+"1385","328 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","328 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89622,41.254795",3706048,"L",9,9,142800,4020
+"1386","115 COVE ST, New Haven, CT, ","Match","Exact","115 Cove St, NEW HAVEN, CT, 06512","-72.89638,41.25538",618696446,"R",9,9,142800,4020
+"1387","119 COVE ST, New Haven, CT, ","Match","Exact","119 Cove St, NEW HAVEN, CT, 06512","-72.89624,41.255413",618696446,"R",9,9,142800,4020
+"1388","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1389","133 COVE ST, New Haven, CT, ","Match","Exact","133 Cove St, NEW HAVEN, CT, 06512","-72.89574,41.255535",618696446,"R",9,9,142800,4020
+"1390","141 COVE ST, New Haven, CT, ","Match","Exact","141 Cove St, NEW HAVEN, CT, 06512","-72.89545,41.255604",618696446,"R",9,9,142800,4020
+"1391","145 COVE ST, New Haven, CT, ","Match","Exact","145 Cove St, NEW HAVEN, CT, 06512","-72.89531,41.25564",618696446,"R",9,9,142800,4020
+"1392","198 COVE ST, New Haven, CT, ","Match","Exact","198 Cove St, NEW HAVEN, CT, 06512","-72.8938,41.256184",3706050,"L",9,9,142800,3017
+"1393","190 COVE ST, New Haven, CT, ","Match","Exact","190 Cove St, NEW HAVEN, CT, 06512","-72.89402,41.256126",3706050,"L",9,9,142800,3017
+"1394","184 COVE ST, New Haven, CT, ","Match","Exact","184 Cove St, NEW HAVEN, CT, 06512","-72.89419,41.256084",3706050,"L",9,9,142800,3017
+"1395","180 COVE ST, New Haven, CT, ","Match","Exact","180 Cove St, NEW HAVEN, CT, 06512","-72.894295,41.25605",3706050,"L",9,9,142800,3017
+"1396","178 COVE ST, New Haven, CT, ","Match","Exact","178 Cove St, NEW HAVEN, CT, 06512","-72.89434,41.256027",3706050,"L",9,9,142800,3017
+"1397","174 COVE ST, New Haven, CT, ","Match","Exact","174 Cove St, NEW HAVEN, CT, 06512","-72.89444,41.25598",3706050,"L",9,9,142800,3017
+"1398","170 COVE ST, New Haven, CT, ","Match","Exact","170 Cove St, NEW HAVEN, CT, 06512","-72.89453,41.255924",3706050,"L",9,9,142800,3017
+"1399","160 COVE ST, New Haven, CT, ","Match","Exact","160 Cove St, NEW HAVEN, CT, 06512","-72.89475,41.25578",3706050,"L",9,9,142800,3017
+"1400","156 COVE ST, New Haven, CT, ","Match","Exact","156 Cove St, NEW HAVEN, CT, 06512","-72.89492,41.25573",618696447,"L",9,9,142800,3017
+"1401","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1402","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1403","144 COVE ST, New Haven, CT, ","Match","Exact","144 Cove St, NEW HAVEN, CT, 06512","-72.89546,41.25563",618696446,"L",9,9,142800,3024
+"1404","138 COVE ST, New Haven, CT, ","Match","Exact","138 Cove St, NEW HAVEN, CT, 06512","-72.895676,41.255577",618696446,"L",9,9,142800,3024
+"1405","134 COVE ST, New Haven, CT, ","Match","Exact","134 Cove St, NEW HAVEN, CT, 06512","-72.89582,41.255543",618696446,"L",9,9,142800,3024
+"1406","132 COVE ST, New Haven, CT, ","Match","Exact","132 Cove St, NEW HAVEN, CT, 06512","-72.89589,41.255527",618696446,"L",9,9,142800,3024
+"1407","130 COVE ST, New Haven, CT, ","Match","Exact","130 Cove St, NEW HAVEN, CT, 06512","-72.89596,41.25551",618696446,"L",9,9,142800,3024
+"1408","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1409","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1410","114 COVE ST, New Haven, CT, ","Match","Exact","114 Cove St, NEW HAVEN, CT, 06512","-72.89653,41.25537",618696446,"L",9,9,142800,3024
+"1411","211 COVE ST, New Haven, CT, ","Match","Exact","211 Cove St, NEW HAVEN, CT, 06512","-72.89336,41.256195",3706059,"R",9,9,142800,4002
+"1412","434 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","434 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89332,41.25536",3706064,"L",9,9,142800,4002
+"1413","430 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","430 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.8934,41.255344",3706064,"L",9,9,142800,4002
+"1414","420 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","420 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.8936,41.25531",3706064,"L",9,9,142800,4002
+"1415","416 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","416 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89368,41.255295",3706064,"L",9,9,142800,4002
+"1416","412 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","412 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89376,41.25528",3706064,"L",9,9,142800,4002
+"1417","402 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","402 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89396,41.25524",3706064,"L",9,9,142800,4002
+"1418","392 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","392 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89416,41.255207",3706064,"L",9,9,142800,4002
+"1419","386 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","386 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89427,41.255184",3706064,"L",9,9,142800,4002
+"1420","382 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","382 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.894356,41.25517",3706064,"L",9,9,142800,4002
+"1421","376 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","376 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89459,41.25512",3706051,"L",9,9,142800,4002
+"1422","370 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","370 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89477,41.25508",3706051,"L",9,9,142800,4002
+"1423","360 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","360 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89507,41.25502",3706051,"L",9,9,142800,4002
+"1424","165 COVE ST, New Haven, CT, ","Match","Exact","165 Cove St, NEW HAVEN, CT, 06512","-72.89458,41.25586",3706050,"R",9,9,142800,4002
+"1425","171 COVE ST, New Haven, CT, ","Match","Exact","171 Cove St, NEW HAVEN, CT, 06512","-72.89443,41.255955",3706050,"R",9,9,142800,4002
+"1426","179 COVE ST, New Haven, CT, ","Match","Exact","179 Cove St, NEW HAVEN, CT, 06512","-72.8942,41.25605",3706050,"R",9,9,142800,4002
+"1427","181 COVE ST, New Haven, CT, ","Match","Exact","181 Cove St, NEW HAVEN, CT, 06512","-72.894135,41.25607",3706050,"R",9,9,142800,4002
+"1428","197 COVE ST, New Haven, CT, ","Match","Exact","197 Cove St, NEW HAVEN, CT, 06512","-72.89363,41.25619",3706050,"R",9,9,142800,4002
+"1429","203 COVE ST, New Haven, CT, ","Match","Exact","203 Cove St, NEW HAVEN, CT, 06512","-72.89343,41.25621",3706059,"R",9,9,142800,4002
+"1430","205 COVE ST, New Haven, CT, ","Match","Exact","205 Cove St, NEW HAVEN, CT, 06512","-72.89341,41.256207",3706059,"R",9,9,142800,4002
+"1431","207 COVE ST, New Haven, CT, ","Match","Exact","207 Cove St, NEW HAVEN, CT, 06512","-72.893394,41.256203",3706059,"R",9,9,142800,4002
+"1432","180 MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1433","MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1434","196 MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1435","202 MARION ST, New Haven, CT, ","Match","Exact","202 Marion St, NEW HAVEN, CT, 06512","-72.892586,41.253098",3745431,"L",9,9,142800,4013
+"1436","206 MARION ST, New Haven, CT, ","Match","Exact","206 Marion St, NEW HAVEN, CT, 06512","-72.89257,41.253128",3745431,"L",9,9,142800,4013
+"1437","5 MARION ST, New Haven, CT, ","Match","Exact","5 Marion St, NEW HAVEN, CT, 06516","-72.93538,41.268044",3701059,"R",9,9,155000,1023
+"1438","MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1439","105 MEADOW VIEW ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1440","MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1441","MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1442","179 MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1443","MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1444","187 MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1445","40 MARION ST, New Haven, CT, ","Match","Exact","40 Marion St, NEW HAVEN, CT, 06516","-72.93588,41.26761",3701059,"L",9,9,155000,1024
+"1446","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1447","203 MARION ST, New Haven, CT, ","Match","Exact","203 Marion St, NEW HAVEN, CT, 06512","-72.892555,41.253086",3745431,"R",9,9,142800,4001
+"1448","MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1449","215 MARION ST, New Haven, CT, ","Match","Exact","215 Marion St, NEW HAVEN, CT, 06512","-72.8925,41.253162",3745431,"R",9,9,142800,4001
+"1450","136 ROAD DAM & CREEK, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1451","143 MEADOW VIEW ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1452","6 LIGHTHOUSE POINT TER, New Haven, CT, ","Match","Exact","6 Lighthouse Point Ter, NEW HAVEN, CT, 06512","-72.891884,41.252705",3706099,"R",9,9,142800,4004
+"1453","146 ROAD DAM & CREEK, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1454","CART RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1455","ROAD DAM & CREEK, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1456","190 CART RD, New Haven, CT, ","Match","Exact","190 Cart Rd, NEW HAVEN, CT, 06512","-72.89215,41.25262",3757037,"L",9,9,142800,4004
+"1457","52 CART RD, New Haven, CT, ","Match","Exact","52 Cart Rd, NEW HAVEN, CT, 06512","-72.89295,41.25128",3757037,"L",9,9,142800,4004
+"1458","62 CART RD, New Haven, CT, ","Match","Exact","62 Cart Rd, NEW HAVEN, CT, 06512","-72.892815,41.251335",3757037,"L",9,9,142800,4004
+"1459","68 CART RD, New Haven, CT, ","Match","Exact","68 Cart Rd, NEW HAVEN, CT, 06512","-72.89272,41.251354",3757037,"L",9,9,142800,4004
+"1460","CART RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1461","68 ROAD DAM & CREEK, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1462","64 ROAD DAM & CREEK, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1463","10 LIGHTHOUSE POINT TER, New Haven, CT, ","Match","Exact","10 Lighthouse Point Ter, NEW HAVEN, CT, 06512","-72.89187,41.25269",3706099,"R",9,9,142800,4004
+"1464","14 LIGHTHOUSE POINT TER, New Haven, CT, ","Match","Exact","14 Lighthouse Point Ter, NEW HAVEN, CT, 06512","-72.89185,41.252674",3706099,"R",9,9,142800,4004
+"1465","16 LIGHTHOUSE POINT TER, New Haven, CT, ","Match","Exact","16 Lighthouse Point Ter, NEW HAVEN, CT, 06512","-72.891846,41.252666",3706099,"R",9,9,142800,4004
+"1466","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1467","14 1/2 LIGHTHOUSE POINT TER, New Haven, CT, ","Match","Exact","14 Lighthouse Point Ter, NEW HAVEN, CT, 06512","-72.89185,41.252674",3706099,"R",9,9,142800,4004
+"1468","30 LIGHTHOUSE POINT TER, New Haven, CT, ","Match","Exact","30 Lighthouse Point Ter, NEW HAVEN, CT, 06512","-72.8918,41.252617",3706099,"R",9,9,142800,4004
+"1469","40 LIGHTHOUSE POINT TER, New Haven, CT, ","Match","Exact","40 Lighthouse Point Ter, NEW HAVEN, CT, 06512","-72.89176,41.25258",3706099,"R",9,9,142800,4004
+"1470","150 ROAD DAM & CREEK, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1471","ROAD DAM & CREEK, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1472","114 CART RD, New Haven, CT, ","Match","Exact","114 Cart Rd, NEW HAVEN, CT, 06512","-72.892456,41.251804",3757037,"L",9,9,142800,4004
+"1473","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1474","18 ROAD DAM & CREEK, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1475","75 MEADOW VIEW ST, New Haven, CT, ","Match","Exact","75 Meadow View St, NEW HAVEN, CT, 06512","-72.89192,41.253006",3706097,"R",9,9,142800,4019
+"1476","71 MEADOW VIEW ST, New Haven, CT, ","Match","Exact","71 Meadow View St, NEW HAVEN, CT, 06512","-72.89207,41.25298",3706097,"R",9,9,142800,4019
+"1477","79 MEADOW VIEW ST, New Haven, CT, ","Match","Exact","79 Meadow View St, NEW HAVEN, CT, 06512","-72.89178,41.253044",3706097,"R",9,9,142800,4019
+"1478","120 SOUTH END RD, New Haven, CT, ","Match","Exact","120 S End Rd, NEW HAVEN, CT, 06512","-72.89037,41.252808",3706100,"L",9,9,142800,4019
+"1479","110 SOUTH END RD, New Haven, CT, ","Match","Exact","110 S End Rd, NEW HAVEN, CT, 06512","-72.88991,41.252373",3706100,"L",9,9,142800,4019
+"1480","100 SOUTH END RD, New Haven, CT, ","Match","Exact","100 S End Rd, NEW HAVEN, CT, 06512","-72.88953,41.2519",3706100,"L",9,9,142800,4019
+"1481","90 SOUTH END RD, New Haven, CT, ","Match","Exact","90 S End Rd, NEW HAVEN, CT, 06512","-72.88943,41.251358",3706100,"L",9,9,142800,4019
+"1482","21 LIGHTHOUSE POINT TER, New Haven, CT, ","Match","Exact","21 Lighthouse Point Ter, NEW HAVEN, CT, 06512","-72.8918,41.252663",3706099,"L",9,9,142800,4019
+"1483","66 SOUTH END RD, New Haven, CT, ","Match","Exact","66 S End Rd, NEW HAVEN, CT, 06512","-72.889465,41.25114",3706100,"L",9,9,142800,4019
+"1484","SOUTH END RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1485","58 SOUTH END RD, New Haven, CT, ","Match","Exact","58 S End Rd, NEW HAVEN, CT, 06512","-72.89069,41.253117",3706100,"L",9,9,142800,4019
+"1486","44 SOUTH END RD, New Haven, CT, ","Match","Exact","44 S End Rd, NEW HAVEN, CT, 06512","-72.89022,41.25267",3706100,"L",9,9,142800,4019
+"1487","40 SOUTH END RD, New Haven, CT, ","Match","Exact","40 S End Rd, NEW HAVEN, CT, 06512","-72.89008,41.25254",3706100,"L",9,9,142800,4019
+"1488","SOUTH END RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1489","LIGHTHOUSE POINT TER, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1490","LIGHTHOUSE POINT TER, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1491","LIGHTHOUSE POINT TER, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1492","LIGHTHOUSE POINT TER, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1493","19 LIGHTHOUSE POINT TER, New Haven, CT, ","Match","Exact","19 Lighthouse Point Ter, NEW HAVEN, CT, 06512","-72.89181,41.25267",3706099,"L",9,9,142800,4019
+"1494","11 LIGHTHOUSE POINT TER, New Haven, CT, ","Match","Exact","11 Lighthouse Point Ter, NEW HAVEN, CT, 06512","-72.89183,41.2527",3706099,"L",9,9,142800,4019
+"1495","7 LIGHTHOUSE POINT TER, New Haven, CT, ","Match","Exact","7 Lighthouse Point Ter, NEW HAVEN, CT, 06512","-72.891846,41.252712",3706099,"L",9,9,142800,4019
+"1496","1 CORA ST, New Haven, CT, ","Match","Exact","1 Cora St, NEW HAVEN, CT, 06512","-72.89986,41.253826",3705988,"R",9,9,142800,4004
+"1497","7 CORA ST, New Haven, CT, ","Match","Exact","7 Cora St, NEW HAVEN, CT, 06512","-72.89981,41.25371",3705988,"R",9,9,142800,4004
+"1498","11 CORA ST, New Haven, CT, ","Match","Exact","11 Cora St, NEW HAVEN, CT, 06512","-72.89977,41.25364",3705988,"R",9,9,142800,4004
+"1499","19 CORA ST, New Haven, CT, ","Match","Exact","19 Cora St, NEW HAVEN, CT, 06512","-72.89968,41.2535",3705988,"R",9,9,142800,4004
+"1500","21 CORA ST, New Haven, CT, ","Match","Exact","21 Cora St, NEW HAVEN, CT, 06512","-72.89966,41.253468",3705988,"R",9,9,142800,4004
+"1501","27 CORA ST, New Haven, CT, ","Match","Exact","27 Cora St, NEW HAVEN, CT, 06512","-72.8996,41.25336",3705988,"R",9,9,142800,4004
+"1502","251 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","251 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.90135,41.253414",3705987,"L",9,9,142800,4012
+"1503","257 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","257 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.90079,41.253357",3705987,"L",9,9,142800,4012
+"1504","265 LIGHTHOUSE RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1505","269 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","269 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.898636,41.253536",3744462,"R",9,9,142800,4004
+"1506","273 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","273 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89784,41.254005",3744462,"R",9,9,142800,4004
+"1507","277 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","277 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89768,41.2541",3745136,"R",9,9,142800,4004
+"1508","287 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","287 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89742,41.254257",3745136,"R",9,9,142800,4004
+"1509","293 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","293 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89727,41.254353",3745136,"R",9,9,142800,4004
+"1510","305 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","305 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89696,41.25454",3745136,"R",9,9,142800,4004
+"1511","307 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","307 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.896904,41.254566",3745136,"R",9,9,142800,4004
+"1512","311 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","311 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89678,41.25461",3745136,"R",9,9,142800,4004
+"1513","128 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1514","124 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1515","6 DOTY PL, New Haven, CT, ","Match","Exact","6 Doty Pl, NEW HAVEN, CT, 06512","-72.89737,41.253445",3744464,"R",9,9,142800,4004
+"1516","10 DOTY PL, New Haven, CT, ","Match","Exact","10 Doty Pl, NEW HAVEN, CT, 06512","-72.8974,41.253426",3744464,"R",9,9,142800,4004
+"1517","16 DOTY PL, New Haven, CT, ","Match","Exact","16 Doty Pl, NEW HAVEN, CT, 06512","-72.89745,41.2534",3744464,"R",9,9,142800,4004
+"1518","24 DOTY PL, New Haven, CT, ","Match","Exact","24 Doty Pl, NEW HAVEN, CT, 06512","-72.897514,41.25336",3744464,"R",9,9,142800,4004
+"1519","32 DOTY PL, New Haven, CT, ","Match","Exact","32 Doty Pl, NEW HAVEN, CT, 06512","-72.897575,41.253326",3744464,"R",9,9,142800,4004
+"1520","18 MARIN RD, New Haven, CT, ","Match","Exact","18 Marin Rd, NEW HAVEN, CT, 06512","-72.89857,41.25343",3744463,"L",9,9,142800,4004
+"1521","175 LIGHTHOUSE RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1522","105 MORRIS AV, New Haven, CT, ","Match","Exact","105 Morris Ave, NEW HAVEN, CT, 06512","-72.89653,41.253437",3706001,"R",9,9,142800,4005
+"1523","9 CLIFFORD TER, New Haven, CT, ","Match","Exact","9 Clifford Ter, NEW HAVEN, CT, 06512","-72.896194,41.253487",3706084,"R",9,9,142800,4005
+"1524","19 CLIFFORD TER, New Haven, CT, ","Match","Exact","19 Clifford Ter, NEW HAVEN, CT, 06512","-72.89586,41.253517",3706084,"R",9,9,142800,4005
+"1525","25 CLIFFORD TER, New Haven, CT, ","Match","Exact","25 Clifford Ter, NEW HAVEN, CT, 06512","-72.89565,41.253532",3706084,"R",9,9,142800,4005
+"1526","128 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","128 Ocean View St, NEW HAVEN, CT, 06512","-72.8951,41.253445",3706085,"L",9,9,142800,4005
+"1527","34 SHEPARD AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1528","26 SHEPARD AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1529","20 SHEPARD AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1530","16 SHEPARD AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1531","12 SHEPARD AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1532","4 SHEPARD AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1533","325 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","325 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89628,41.254753",3706048,"R",9,9,142800,4010
+"1534","345 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","345 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89561,41.254894",3706048,"R",9,9,142800,4010
+"1535","347 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","347 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89554,41.25491",3706048,"R",9,9,142800,4010
+"1536","170 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","170 Ocean View St, NEW HAVEN, CT, 06512","-72.89521,41.25462",3706049,"L",9,9,142800,4010
+"1537","164 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","164 Ocean View St, NEW HAVEN, CT, 06512","-72.895195,41.25445",3706049,"L",9,9,142800,4010
+"1538","158 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","158 Ocean View St, NEW HAVEN, CT, 06512","-72.89518,41.25428",3706049,"L",9,9,142800,4010
+"1539","152 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","152 Ocean View St, NEW HAVEN, CT, 06512","-72.895164,41.254112",3706049,"L",9,9,142800,4010
+"1540","OCEAN VIEW ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1541","148 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","148 Ocean View St, NEW HAVEN, CT, 06512","-72.89516,41.253998",3706049,"L",9,9,142800,4010
+"1542","140 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","140 Ocean View St, NEW HAVEN, CT, 06512","-72.895134,41.253773",3706049,"L",9,9,142800,4010
+"1543","22 CLIFFORD TER, New Haven, CT, ","Match","Exact","22 Clifford Ter, NEW HAVEN, CT, 06512","-72.89575,41.25355",3706084,"L",9,9,142800,4010
+"1544","14 CLIFFORD TER, New Haven, CT, ","Match","Exact","14 Clifford Ter, NEW HAVEN, CT, 06512","-72.89604,41.25353",3706084,"L",9,9,142800,4010
+"1545","8 CLIFFORD TER, New Haven, CT, ","Match","Exact","8 Clifford Ter, NEW HAVEN, CT, 06512","-72.896255,41.25351",3706084,"L",9,9,142800,4010
+"1546","115 MORRIS AV, New Haven, CT, ","Match","Exact","115 Morris Ave, NEW HAVEN, CT, 06512","-72.896484,41.253853",606051060,"R",9,9,142800,4010
+"1547","2 CLIFFORD TER, New Haven, CT, ","Match","Exact","2 Clifford Ter, NEW HAVEN, CT, 06512","-72.89648,41.25349",3706084,"L",9,9,142800,4010
+"1548","117 MORRIS AV, New Haven, CT, ","Match","Exact","117 Morris Ave, NEW HAVEN, CT, 06512","-72.89648,41.253944",606051060,"R",9,9,142800,4010
+"1549","121 MORRIS AV, New Haven, CT, ","Match","Exact","121 Morris Ave, NEW HAVEN, CT, 06512","-72.89647,41.254105",606051061,"R",9,9,142800,4010
+"1550","123 MORRIS AV, New Haven, CT, ","Match","Exact","123 Morris Ave, NEW HAVEN, CT, 06512","-72.89647,41.2542",606051061,"R",9,9,142800,4010
+"1551","7 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1552","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1553","11 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1554","15 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1555","21 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1556","29 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1557","37 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1558","49 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1559","270 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","270 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89804,41.253925",3744462,"L",9,9,142800,4007
+"1560","266 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","266 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89813,41.253876",3744462,"L",9,9,142800,4007
+"1561","262 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","262 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.898224,41.253822",3744462,"L",9,9,142800,4007
+"1562","256 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","256 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89835,41.253746",3744462,"L",9,9,142800,4007
+"1563","252 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","252 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.898445,41.253693",3744462,"L",9,9,142800,4007
+"1564","246 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","246 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.898575,41.253613",3744462,"L",9,9,142800,4007
+"1565","240 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","240 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.898796,41.25348",3705991,"L",9,9,142800,4007
+"1566","236 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","236 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.8988,41.253475",3705991,"L",9,9,142800,4007
+"1567","234 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","234 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89881,41.25347",3705991,"L",9,9,142800,4007
+"1568","230 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","230 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89882,41.253468",3705991,"L",9,9,142800,4007
+"1569","222 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","222 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89884,41.253456",3705991,"L",9,9,142800,4007
+"1570","8 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1571","14 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1572","20 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1573","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1574","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1575","20 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1576","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1577","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1578","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1579","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1580","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1581","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1582","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1583","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1584","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1585","20 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1586","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1587","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1588","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1589","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1590","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1591","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1592","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1593","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1594","20 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1595","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1596","20 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1597","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1598","20 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1599","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1600","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1601","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1602","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1603","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1604","20 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1605","20 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1606","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1607","20 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1608","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1609","20 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1610","20 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1611","20 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1612","COVE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1613","20 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1614","20 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1615","24 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1616","30 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1617","34 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1618","38 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1619","62 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1620","64 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1621","70 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1622","74 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1623","78 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1624","82 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1625","88 COVE ST #A, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1626","88 COVE ST #B, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1627","86 COVE ST #A, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1628","86 COVE ST #B, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1629","94 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1630","104 COVE ST, New Haven, CT, ","Match","Exact","104 Cove St, NEW HAVEN, CT, 06512","-72.89696,41.255207",3705982,"L",9,9,142800,4004
+"1631","176 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1632","19 RHEA ST, New Haven, CT, ","Match","Exact","19 Rhea St, NEW HAVEN, CT, 06512","-72.89791,41.254173",3705998,"R",9,9,142800,4014
+"1633","75 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1634","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1635","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1636","81 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1637","87 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1638","93 COVE ST, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1639","103 COVE ST, New Haven, CT, ","Match","Exact","103 Cove St, NEW HAVEN, CT, 06512","-72.89688,41.255207",3705982,"R",9,9,142800,4014
+"1640","312 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","312 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89683,41.254623",3745136,"L",9,9,142800,4014
+"1641","310 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","310 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89689,41.254604",3745136,"L",9,9,142800,4014
+"1642","308 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","308 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89696,41.254574",3745136,"L",9,9,142800,4014
+"1643","300 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","300 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89719,41.254436",3745136,"L",9,9,142800,4014
+"1644","296 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","296 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.8973,41.254368",3745136,"L",9,9,142800,4014
+"1645","290 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","290 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89747,41.254265",3745136,"L",9,9,142800,4014
+"1646","284 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","284 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.897644,41.25416",3745136,"L",9,9,142800,4014
+"1647","280 LIGHTHOUSE RD, New Haven, CT, ","Match","Exact","280 Lighthouse Rd, NEW HAVEN, CT, 06512","-72.89776,41.254093",3745136,"L",9,9,142800,4014
+"1648","11 RHEA ST, New Haven, CT, ","Match","Exact","11 Rhea St, NEW HAVEN, CT, 06512","-72.89787,41.25413",3705998,"R",9,9,142800,4014
+"1649","DOTY PL, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1650","9 DOTY PL, New Haven, CT, ","Match","Exact","9 Doty Pl, NEW HAVEN, CT, 06512","-72.89806,41.253082",3744464,"L",9,9,142800,4004
+"1651","7 DOTY PL, New Haven, CT, ","Match","Exact","7 Doty Pl, NEW HAVEN, CT, 06512","-72.89808,41.25307",3744464,"L",9,9,142800,4004
+"1652","5 DOTY PL, New Haven, CT, ","Match","Exact","5 Doty Pl, NEW HAVEN, CT, 06512","-72.898094,41.253063",3744464,"L",9,9,142800,4004
+"1653","1 DOTY PL, New Haven, CT, ","Match","Exact","1 Doty Pl, NEW HAVEN, CT, 06512","-72.89813,41.253044",3744464,"L",9,9,142800,4004
+"1654","MORRIS AV, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1655","100 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1656","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1657","92 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1658","88 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1659","MARIN RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1660","MARIN RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1661","MARIN RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1662","MARIN RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1663","MARIN RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1664","80 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1665","76 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1666","70 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1667","66 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1668","58 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1669","54 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1670","48 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1671","46 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1672","44 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1673","40 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1674","36 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1675","32 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1676","28 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1677","24 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1678","16 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1679","3 MEADOW VIEW ST, New Haven, CT, ","Match","Non_Exact","3 Meadow View Rd, NEW HAVEN, CT, 06512","-72.89602,41.251457",3706005,"R",9,9,142800,4004
+"1680","9 MEADOW VIEW ST, New Haven, CT, ","Match","Non_Exact","9 Meadow View Rd, NEW HAVEN, CT, 06512","-72.895805,41.251472",3706005,"R",9,9,142800,4004
+"1681","15 MEADOW VIEW ST, New Haven, CT, ","Match","Non_Exact","15 Meadow View Rd, NEW HAVEN, CT, 06512","-72.89559,41.251488",3706005,"R",9,9,142800,4004
+"1682","MORRIS AV, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1683","17 ORCHARD AV, New Haven, CT, ","Match","Exact","17 Orchard Ave, NEW HAVEN, CT, 06512","-72.895424,41.252205",3706090,"L",9,9,142800,4008
+"1684","7 ORCHARD AV, New Haven, CT, ","Match","Exact","7 Orchard Ave, NEW HAVEN, CT, 06512","-72.89532,41.252213",3706090,"L",9,9,142800,4008
+"1685","72 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","72 Ocean View St, NEW HAVEN, CT, 06512","-72.89523,41.252132",3706091,"L",9,9,142800,4008
+"1686","66 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","66 Ocean View St, NEW HAVEN, CT, 06512","-72.89524,41.252083",3706091,"L",9,9,142800,4008
+"1687","10 MEADOW VIEW ST, New Haven, CT, ","Match","Non_Exact","10 Meadow View Rd, NEW HAVEN, CT, 06512","-72.89574,41.251507",3706005,"L",9,9,142800,4008
+"1688","33 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1689","39 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1690","45 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1691","71 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1692","15 SHEPARD AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1693","19 SHEPARD AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1694","25 SHEPARD AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1695","104 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","104 Ocean View St, NEW HAVEN, CT, 06512","-72.89507,41.2529",3706088,"L",9,9,142800,4015
+"1696","94 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","94 Ocean View St, NEW HAVEN, CT, 06512","-72.895134,41.252613",3706088,"L",9,9,142800,4015
+"1697","16 ORCHARD AV, New Haven, CT, ","Match","Exact","16 Orchard Ave, NEW HAVEN, CT, 06512","-72.89541,41.25223",3706090,"R",9,9,142800,4015
+"1698","20 ORCHARD AV, New Haven, CT, ","Match","Exact","20 Orchard Ave, NEW HAVEN, CT, 06512","-72.895454,41.25223",3706090,"R",9,9,142800,4015
+"1699","59 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1700","69 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1701","103 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","103 Ocean View St, NEW HAVEN, CT, 06512","-72.89505,41.252834",3706088,"R",9,9,142800,4016
+"1702","61 SHEPARD AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1703","SHEPARD AV, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1704","86 MEADOW VIEW ST, New Haven, CT, ","Match","Non_Exact","86 Meadow View Rd, NEW HAVEN, CT, 06512","-72.89434,41.252266",3706094,"L",9,9,142800,4016
+"1705","74 MEADOW VIEW ST, New Haven, CT, ","Match","Non_Exact","74 Meadow View Rd, NEW HAVEN, CT, 06512","-72.89443,41.252014",3706094,"L",9,9,142800,4016
+"1706","63 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","63 Ocean View St, NEW HAVEN, CT, 06512","-72.89521,41.252037",3706091,"R",9,9,142800,4016
+"1707","79 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","79 Ocean View St, NEW HAVEN, CT, 06512","-72.89519,41.252163",3706091,"R",9,9,142800,4016
+"1708","83 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","83 Ocean View St, NEW HAVEN, CT, 06512","-72.89518,41.252193",3706091,"R",9,9,142800,4016
+"1709","87 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","87 Ocean View St, NEW HAVEN, CT, 06512","-72.89516,41.252327",3706088,"R",9,9,142800,4016
+"1710","95 OCEAN VIEW ST, New Haven, CT, ","Match","Exact","95 Ocean View St, NEW HAVEN, CT, 06512","-72.8951,41.252583",3706088,"R",9,9,142800,4016
+"1711","38 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1712","MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1713","MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1714","160 MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1715","156 MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1716","152 MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1717","115 MORRIS CREEK & DY, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1718","MORRIS CREEK & DY, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1719","MORRIS CREEK & DY, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1720","10 MORRIS AV, New Haven, CT, ","Tie","","","",NA,"",NA,NA,NA,NA
+"1721","23 MEADOW VIEW ST, New Haven, CT, ","Match","Non_Exact","23 Meadow View Rd, NEW HAVEN, CT, 06512","-72.89524,41.251457",3706094,"R",9,9,142800,4004
+"1722","175 MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1723","MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1724","165 MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1725","159 MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1726","81 MORRIS CREEK & DY, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1727","89 MORRIS CREEK & DY, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1728","93 MORRIS CREEK & DY, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1729","99 MORRIS CREEK & DY, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1730","101 MORRIS CREEK & DY, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1731","155 MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1732","149 MARION ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1733","21 LIGHTHOUSE RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1734","6 RAYNHAM RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1735","307 WOODWARD AV, New Haven, CT, ","Match","Exact","307 Woodward Ave, NEW HAVEN, CT, 06512","-72.898865,41.277386",3704068,"R",9,9,142800,2007
+"1736","315 WOODWARD AV, New Haven, CT, ","Match","Exact","315 Woodward Ave, NEW HAVEN, CT, 06512","-72.8988,41.277557",3704068,"R",9,9,142800,2007
+"1737","321 WOODWARD AV, New Haven, CT, ","Match","Exact","321 Woodward Ave, NEW HAVEN, CT, 06512","-72.89876,41.277687",3704068,"R",9,9,142800,2007
+"1738","327 WOODWARD AV, New Haven, CT, ","Match","Exact","327 Woodward Ave, NEW HAVEN, CT, 06512","-72.89871,41.27782",3704068,"R",9,9,142800,2007
+"1739","333 WOODWARD AV, New Haven, CT, ","Match","Exact","333 Woodward Ave, NEW HAVEN, CT, 06512","-72.89867,41.27795",3704068,"R",9,9,142800,2007
+"1740","337 WOODWARD AV, New Haven, CT, ","Match","Exact","337 Woodward Ave, NEW HAVEN, CT, 06512","-72.898636,41.278038",3704068,"R",9,9,142800,2007
+"1741","TUTTLE ST, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1742","196 KNEELAND RD, New Haven, CT, ","Match","Exact","196 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89723,41.27788",3704071,"L",9,9,142800,2007
+"1743","19 TUTTLE ST, New Haven, CT, ","Match","Exact","19 Tuttle St, NEW HAVEN, CT, 06512","-72.89739,41.278282",3704069,"R",9,9,142800,2007
+"1744","190 KNEELAND RD, New Haven, CT, ","Match","Exact","190 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89729,41.277706",3704071,"L",9,9,142800,2007
+"1745","184 KNEELAND RD, New Haven, CT, ","Match","Exact","184 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89735,41.277534",3704071,"L",9,9,142800,2007
+"1746","176 KNEELAND RD, New Haven, CT, ","Match","Exact","176 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89742,41.2773",3704071,"L",9,9,142800,2007
+"1747","170 KNEELAND RD, New Haven, CT, ","Match","Exact","170 Kneeland Rd, NEW HAVEN, CT, 06512","-72.897484,41.277126",3704071,"L",9,9,142800,2007
+"1748","164 KNEELAND RD, New Haven, CT, ","Match","Exact","164 Kneeland Rd, NEW HAVEN, CT, 06512","-72.897545,41.276955",3704071,"L",9,9,142800,2007
+"1749","34 RAYNHAM RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1750","26 RAYNHAM RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1751","20 RAYNHAM RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1752","12 RAYNHAM RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1753","50 RAYNHAM RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1754","165 KNEELAND RD, New Haven, CT, ","Match","Exact","165 Kneeland Rd, NEW HAVEN, CT, 06512","-72.8975,41.276974",3704071,"R",9,9,142800,2006
+"1755","173 KNEELAND RD, New Haven, CT, ","Match","Exact","173 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89742,41.27719",3704071,"R",9,9,142800,2006
+"1756","179 KNEELAND RD, New Haven, CT, ","Match","Exact","179 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89737,41.27735",3704071,"R",9,9,142800,2006
+"1757","185 KNEELAND RD, New Haven, CT, ","Match","Exact","185 Kneeland Rd, NEW HAVEN, CT, 06512","-72.897316,41.277515",3704071,"R",9,9,142800,2006
+"1758","191 KNEELAND RD, New Haven, CT, ","Match","Exact","191 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89726,41.27768",3704071,"R",9,9,142800,2006
+"1759","197 KNEELAND RD, New Haven, CT, ","Match","Exact","197 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89721,41.27784",3704071,"R",9,9,142800,2006
+"1760","203 KNEELAND RD, New Haven, CT, ","Match","Exact","203 Kneeland Rd, NEW HAVEN, CT, 06512","-72.897156,41.278004",3704071,"R",9,9,142800,2006
+"1761","774 TOWNSEND AV, New Haven, CT, ","Match","Exact","774 Townsend Ave, NEW HAVEN, CT, 06512","-72.895676,41.277847",3704072,"L",9,9,142800,2006
+"1762","766 TOWNSEND AV, New Haven, CT, ","Match","Exact","766 Townsend Ave, NEW HAVEN, CT, 06512","-72.89571,41.277668",3704072,"L",9,9,142800,2006
+"1763","760 TOWNSEND AV, New Haven, CT, ","Match","Exact","760 Townsend Ave, NEW HAVEN, CT, 06512","-72.895744,41.27753",3704072,"L",9,9,142800,2006
+"1764","752 TOWNSEND AV, New Haven, CT, ","Match","Exact","752 Townsend Ave, NEW HAVEN, CT, 06512","-72.89578,41.277348",3704072,"L",9,9,142800,2006
+"1765","744 TOWNSEND AV, New Haven, CT, ","Match","Exact","744 Townsend Ave, NEW HAVEN, CT, 06512","-72.89582,41.277164",3704072,"L",9,9,142800,2006
+"1766","738 TOWNSEND AV, New Haven, CT, ","Match","Exact","738 Townsend Ave, NEW HAVEN, CT, 06512","-72.89585,41.277027",3704072,"L",9,9,142800,2006
+"1767","720 TOWNSEND AV, New Haven, CT, ","Match","Exact","720 Townsend Ave, NEW HAVEN, CT, 06512","-72.89594,41.27662",3704072,"L",9,9,142800,2006
+"1768","54 RAYNHAM RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1769","10 TUTTLE ST, New Haven, CT, ","Match","Exact","10 Tuttle St, NEW HAVEN, CT, 06512","-72.89793,41.278378",3704069,"L",9,9,142800,2004
+"1770","363 WOODWARD AV, New Haven, CT, ","Match","Exact","363 Woodward Ave, NEW HAVEN, CT, 06512","-72.89836,41.27879",3704067,"R",9,9,142800,2004
+"1771","367 WOODWARD AV, New Haven, CT, ","Match","Exact","367 Woodward Ave, NEW HAVEN, CT, 06512","-72.89832,41.278908",3704067,"R",9,9,142800,2004
+"1772","375 WOODWARD AV, New Haven, CT, ","Match","Exact","375 Woodward Ave, NEW HAVEN, CT, 06512","-72.89823,41.279137",3704067,"R",9,9,142800,2004
+"1773","383 WOODWARD AV, New Haven, CT, ","Match","Exact","383 Woodward Ave, NEW HAVEN, CT, 06512","-72.89815,41.279366",3704067,"R",9,9,142800,2004
+"1774","393 WOODWARD AV, New Haven, CT, ","Match","Exact","393 Woodward Ave, NEW HAVEN, CT, 06512","-72.89804,41.279655",3704067,"R",9,9,142800,2004
+"1775","399 WOODWARD AV, New Haven, CT, ","Match","Exact","399 Woodward Ave, NEW HAVEN, CT, 06512","-72.89797,41.279827",3704067,"R",9,9,142800,2004
+"1776","405 WOODWARD AV, New Haven, CT, ","Match","Exact","405 Woodward Ave, NEW HAVEN, CT, 06512","-72.897896,41.28004",3704059,"R",9,9,142800,2004
+"1777","411 WOODWARD AV, New Haven, CT, ","Match","Exact","411 Woodward Ave, NEW HAVEN, CT, 06512","-72.89784,41.280174",3704059,"R",9,9,142800,2004
+"1778","415 WOODWARD AV, New Haven, CT, ","Match","Exact","415 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.280262",3704059,"R",9,9,142800,2004
+"1779","421 WOODWARD AV, New Haven, CT, ","Match","Exact","421 Woodward Ave, NEW HAVEN, CT, 06512","-72.89776,41.280396",3704059,"R",9,9,142800,2004
+"1780","429 WOODWARD AV, New Haven, CT, ","Match","Exact","429 Woodward Ave, NEW HAVEN, CT, 06512","-72.8977,41.280575",3704059,"R",9,9,142800,2004
+"1781","3 UPSON TER, New Haven, CT, ","Match","Exact","3 Upson Ter, NEW HAVEN, CT, 06512","-72.89743,41.280903",3704058,"R",9,9,142800,2004
+"1782","11 UPSON TER, New Haven, CT, ","Match","Exact","11 Upson Ter, NEW HAVEN, CT, 06512","-72.89716,41.280853",3704058,"R",9,9,142800,2004
+"1783","294 KNEELAND RD, New Haven, CT, ","Match","Exact","294 Kneeland Rd, NEW HAVEN, CT, 06512","-72.896454,41.28029",3704061,"L",9,9,142800,2004
+"1784","290 KNEELAND RD, New Haven, CT, ","Match","Exact","290 Kneeland Rd, NEW HAVEN, CT, 06512","-72.896484,41.2802",3704061,"L",9,9,142800,2004
+"1785","280 KNEELAND RD, New Haven, CT, ","Match","Exact","280 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89655,41.27998",3704061,"L",9,9,142800,2004
+"1786","276 KNEELAND RD, New Haven, CT, ","Match","Exact","276 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89658,41.27989",3704061,"L",9,9,142800,2004
+"1787","270 KNEELAND RD, New Haven, CT, ","Match","Exact","270 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89662,41.27976",3704061,"L",9,9,142800,2004
+"1788","264 KNEELAND RD, New Haven, CT, ","Match","Exact","264 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89667,41.279625",3704061,"L",9,9,142800,2004
+"1789","258 KNEELAND RD, New Haven, CT, ","Match","Exact","258 Kneeland Rd, NEW HAVEN, CT, 06512","-72.896706,41.27949",3704061,"L",9,9,142800,2004
+"1790","252 KNEELAND RD, New Haven, CT, ","Match","Exact","252 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89675,41.279358",3704061,"L",9,9,142800,2004
+"1791","246 KNEELAND RD, New Haven, CT, ","Match","Exact","246 Kneeland Rd, NEW HAVEN, CT, 06512","-72.8968,41.279224",3704061,"L",9,9,142800,2004
+"1792","240 KNEELAND RD, New Haven, CT, ","Match","Exact","240 Kneeland Rd, NEW HAVEN, CT, 06512","-72.896835,41.27909",3704061,"L",9,9,142800,2004
+"1793","234 KNEELAND RD, New Haven, CT, ","Match","Exact","234 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89688,41.27896",3704061,"L",9,9,142800,2004
+"1794","228 KNEELAND RD, New Haven, CT, ","Match","Exact","228 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89692,41.278828",3704061,"L",9,9,142800,2004
+"1795","222 KNEELAND RD, New Haven, CT, ","Match","Exact","222 Kneeland Rd, NEW HAVEN, CT, 06512","-72.896965,41.278694",3704061,"L",9,9,142800,2004
+"1796","214 KNEELAND RD, New Haven, CT, ","Match","Exact","214 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89702,41.27852",3704061,"L",9,9,142800,2004
+"1797","16 TUTTLE ST, New Haven, CT, ","Match","Exact","16 Tuttle St, NEW HAVEN, CT, 06512","-72.897545,41.278328",3704069,"L",9,9,142800,2004
+"1798","215 KNEELAND RD, New Haven, CT, ","Match","Exact","215 Kneeland Rd, NEW HAVEN, CT, 06512","-72.897,41.27847",3704061,"R",9,9,142800,2005
+"1799","223 KNEELAND RD, New Haven, CT, ","Match","Exact","223 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89694,41.27865",3704061,"R",9,9,142800,2005
+"1800","229 KNEELAND RD, New Haven, CT, ","Match","Exact","229 Kneeland Rd, NEW HAVEN, CT, 06512","-72.8969,41.278786",3704061,"R",9,9,142800,2005
+"1801","241 KNEELAND RD, New Haven, CT, ","Match","Exact","241 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89681,41.279057",3704061,"R",9,9,142800,2005
+"1802","245 KNEELAND RD, New Haven, CT, ","Match","Exact","245 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89678,41.279144",3704061,"R",9,9,142800,2005
+"1803","249 KNEELAND RD, New Haven, CT, ","Match","Exact","249 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89675,41.279236",3704061,"R",9,9,142800,2005
+"1804","253 KNEELAND RD, New Haven, CT, ","Match","Exact","253 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89672,41.279327",3704061,"R",9,9,142800,2005
+"1805","259 KNEELAND RD, New Haven, CT, ","Match","Exact","259 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89668,41.27946",3704061,"R",9,9,142800,2005
+"1806","265 KNEELAND RD, New Haven, CT, ","Match","Exact","265 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89664,41.2796",3704061,"R",9,9,142800,2005
+"1807","271 KNEELAND RD, New Haven, CT, ","Match","Exact","271 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89659,41.27973",3704061,"R",9,9,142800,2005
+"1808","277 KNEELAND RD, New Haven, CT, ","Match","Exact","277 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89655,41.27987",3704061,"R",9,9,142800,2005
+"1809","283 KNEELAND RD, New Haven, CT, ","Match","Exact","283 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89651,41.280003",3704061,"R",9,9,142800,2005
+"1810","289 KNEELAND RD, New Haven, CT, ","Match","Exact","289 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89646,41.28014",3704061,"R",9,9,142800,2005
+"1811","295 KNEELAND RD, New Haven, CT, ","Match","Exact","295 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89642,41.280273",3704061,"R",9,9,142800,2005
+"1812","864 TOWNSEND AV, New Haven, CT, ","Match","Exact","864 Townsend Ave, NEW HAVEN, CT, 06512","-72.8951,41.28029",3704167,"L",9,9,142800,2005
+"1813","856 TOWNSEND AV, New Haven, CT, ","Match","Exact","856 Townsend Ave, NEW HAVEN, CT, 06512","-72.89514,41.280144",3704167,"L",9,9,142800,2005
+"1814","850 TOWNSEND AV, New Haven, CT, ","Match","Exact","850 Townsend Ave, NEW HAVEN, CT, 06512","-72.895164,41.280033",3704167,"L",9,9,142800,2005
+"1815","840 TOWNSEND AV, New Haven, CT, ","Match","Exact","840 Townsend Ave, NEW HAVEN, CT, 06512","-72.89521,41.27985",3704167,"L",9,9,142800,2005
+"1816","820 TOWNSEND AV, New Haven, CT, ","Match","Exact","820 Townsend Ave, NEW HAVEN, CT, 06512","-72.895294,41.27948",3704167,"L",9,9,142800,2005
+"1817","818 TOWNSEND AV, New Haven, CT, ","Match","Exact","818 Townsend Ave, NEW HAVEN, CT, 06512","-72.895325,41.27936",3704253,"L",9,9,142800,2005
+"1818","816 TOWNSEND AV, New Haven, CT, ","Match","Exact","816 Townsend Ave, NEW HAVEN, CT, 06512","-72.89534,41.279293",3704253,"L",9,9,142800,2005
+"1819","810 TOWNSEND AV, New Haven, CT, ","Match","Exact","810 Townsend Ave, NEW HAVEN, CT, 06512","-72.895386,41.27909",3704253,"L",9,9,142800,2005
+"1820","802 TOWNSEND AV, New Haven, CT, ","Match","Exact","802 Townsend Ave, NEW HAVEN, CT, 06512","-72.89545,41.27882",3704253,"L",9,9,142800,2005
+"1821","794 TOWNSEND AV, New Haven, CT, ","Match","Exact","794 Townsend Ave, NEW HAVEN, CT, 06512","-72.895515,41.27855",3704253,"L",9,9,142800,2005
+"1822","786 TOWNSEND AV, New Haven, CT, ","Match","Exact","786 Townsend Ave, NEW HAVEN, CT, 06512","-72.89558,41.27828",3704253,"L",9,9,142800,2005
+"1823","418 WOODWARD AV #1, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1824","418 WOODWARD AV #2, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1825","418 WOODWARD AV #3, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1826","418 WOODWARD AV #4, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1827","418 WOODWARD AV #5, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1828","418 WOODWARD AV #6, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1829","418 WOODWARD AV #7, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1830","418 WOODWARD AV #8, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1831","418 WOODWARD AV #9, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1832","418 WOODWARD AV #10, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1833","418 WOODWARD AV #11, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1834","418 WOODWARD AV #12, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1835","418 WOODWARD AV #13, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1836","418 WOODWARD AV #14, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1837","418 WOODWARD AV #15, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1838","418 WOODWARD AV #16, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1839","418 WOODWARD AV #17, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1840","418 WOODWARD AV #18, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1841","418 WOODWARD AV #19, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1842","418 WOODWARD AV #20, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1843","418 WOODWARD AV #21, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1844","418 WOODWARD AV #22, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1845","418 WOODWARD AV #23, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1846","418 WOODWARD AV #24, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1847","418 WOODWARD AV #25, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1848","418 WOODWARD AV #26, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1849","418 WOODWARD AV #27, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1850","418 WOODWARD AV #28, New Haven, CT, ","Match","Exact","418 Woodward Ave, NEW HAVEN, CT, 06512","-72.89781,41.28036",3704059,"L",9,9,142700,3016
+"1851","432 WOODWARD AV, New Haven, CT, ","Match","Exact","432 Woodward Ave, NEW HAVEN, CT, 06512","-72.89769,41.28067",3704059,"L",9,9,142700,3016
+"1852","436 WOODWARD AV, New Haven, CT, ","Match","Exact","436 Woodward Ave, NEW HAVEN, CT, 06512","-72.89765,41.280758",3704059,"L",9,9,142700,3016
+"1853","82 FORT HALE RD, New Haven, CT, ","Match","Exact","82 Fort Hale Rd, NEW HAVEN, CT, 06512","-72.89952,41.272694",3704083,"L",9,9,142800,2012
+"1854","FORT HALE RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1855","153 WOODWARD AV, New Haven, CT, ","Match","Exact","153 Woodward Ave, NEW HAVEN, CT, 06512","-72.900375,41.273346",3704066,"R",9,9,142800,2012
+"1856","159 WOODWARD AV, New Haven, CT, ","Match","Exact","159 Woodward Ave, NEW HAVEN, CT, 06512","-72.90032,41.273487",3704066,"R",9,9,142800,2012
+"1857","163 WOODWARD AV, New Haven, CT, ","Match","Exact","163 Woodward Ave, NEW HAVEN, CT, 06512","-72.90028,41.27358",3704066,"R",9,9,142800,2012
+"1858","169 WOODWARD AV, New Haven, CT, ","Match","Exact","169 Woodward Ave, NEW HAVEN, CT, 06512","-72.90023,41.27372",3704066,"R",9,9,142800,2012
+"1859","175 WOODWARD AV, New Haven, CT, ","Match","Exact","175 Woodward Ave, NEW HAVEN, CT, 06512","-72.90018,41.27386",3704066,"R",9,9,142800,2012
+"1860","181 WOODWARD AV, New Haven, CT, ","Match","Exact","181 Woodward Ave, NEW HAVEN, CT, 06512","-72.90012,41.274002",3704066,"R",9,9,142800,2012
+"1861","3 HERVEY ST, New Haven, CT, ","Match","Exact","3 Hervey St, NEW HAVEN, CT, 06512","-72.89979,41.274536",3704065,"R",9,9,142800,2012
+"1862","9 HERVEY ST, New Haven, CT, ","Match","Exact","9 Hervey St, NEW HAVEN, CT, 06512","-72.899605,41.27451",3704065,"R",9,9,142800,2012
+"1863","17 HERVEY ST, New Haven, CT, ","Match","Exact","17 Hervey St, NEW HAVEN, CT, 06512","-72.89936,41.27448",3704065,"R",9,9,142800,2012
+"1864","25 HERVEY ST, New Haven, CT, ","Match","Exact","25 Hervey St, NEW HAVEN, CT, 06512","-72.89912,41.27445",3704065,"R",9,9,142800,2012
+"1865","29 HERVEY ST, New Haven, CT, ","Match","Exact","29 Hervey St, NEW HAVEN, CT, 06512","-72.898994,41.274433",3704065,"R",9,9,142800,2012
+"1866","35 HERVEY ST, New Haven, CT, ","Match","Exact","35 Hervey St, NEW HAVEN, CT, 06512","-72.8988,41.27441",3704065,"R",9,9,142800,2012
+"1867","42 KNEELAND RD, New Haven, CT, ","Match","Exact","42 Kneeland Rd, NEW HAVEN, CT, 06512","-72.898575,41.273724",3704077,"L",9,9,142800,2012
+"1868","36 KNEELAND RD, New Haven, CT, ","Match","Exact","36 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89862,41.27357",3704077,"L",9,9,142800,2012
+"1869","30 KNEELAND RD, New Haven, CT, ","Match","Exact","30 Kneeland Rd, NEW HAVEN, CT, 06512","-72.898674,41.27342",3704077,"L",9,9,142800,2012
+"1870","24 KNEELAND RD, New Haven, CT, ","Match","Exact","24 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89872,41.273266",3704077,"L",9,9,142800,2012
+"1871","20 KNEELAND RD, New Haven, CT, ","Match","Exact","20 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89875,41.273163",3704077,"L",9,9,142800,2012
+"1872","114 FORT HALE RD, New Haven, CT, ","Match","Exact","114 Fort Hale Rd, NEW HAVEN, CT, 06512","-72.89912,41.27265",3704083,"L",9,9,142800,2012
+"1873","110 FORT HALE RD, New Haven, CT, ","Match","Exact","110 Fort Hale Rd, NEW HAVEN, CT, 06512","-72.89916,41.272655",3704083,"L",9,9,142800,2012
+"1874","104 FORT HALE RD, New Haven, CT, ","Match","Exact","104 Fort Hale Rd, NEW HAVEN, CT, 06512","-72.89925,41.272663",3704083,"L",9,9,142800,2012
+"1875","100 FORT HALE RD, New Haven, CT, ","Match","Exact","100 Fort Hale Rd, NEW HAVEN, CT, 06512","-72.89929,41.272667",3704083,"L",9,9,142800,2012
+"1876","94 FORT HALE RD, New Haven, CT, ","Match","Exact","94 Fort Hale Rd, NEW HAVEN, CT, 06512","-72.89937,41.27268",3704083,"L",9,9,142800,2012
+"1877","90 FORT HALE RD, New Haven, CT, ","Match","Exact","90 Fort Hale Rd, NEW HAVEN, CT, 06512","-72.89942,41.272682",3704083,"L",9,9,142800,2012
+"1878","84 FORT HALE RD, New Haven, CT, ","Match","Exact","84 Fort Hale Rd, NEW HAVEN, CT, 06512","-72.8995,41.27269",3704083,"L",9,9,142800,2012
+"1879","9 KNEELAND RD, New Haven, CT, ","Match","Exact","9 Kneeland Rd, NEW HAVEN, CT, 06512","-72.898796,41.272884",3704077,"R",9,9,142800,2011
+"1880","25 KNEELAND RD, New Haven, CT, ","Match","Exact","25 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89868,41.273254",3704077,"R",9,9,142800,2011
+"1881","33 KNEELAND RD, New Haven, CT, ","Match","Exact","33 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89863,41.27344",3704077,"R",9,9,142800,2011
+"1882","35 KNEELAND RD, New Haven, CT, ","Match","Exact","35 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89861,41.273487",3704077,"R",9,9,142800,2011
+"1883","37 KNEELAND RD, New Haven, CT, ","Match","Exact","37 Kneeland Rd, NEW HAVEN, CT, 06512","-72.8986,41.273533",3704077,"R",9,9,142800,2011
+"1884","51 KNEELAND RD, New Haven, CT, ","Match","Exact","51 Kneeland Rd, NEW HAVEN, CT, 06512","-72.8985,41.273857",3704077,"R",9,9,142800,2011
+"1885","47 KNEELAND RD, New Haven, CT, ","Match","Exact","47 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89852,41.273766",3704077,"R",9,9,142800,2011
+"1886","59 HERVEY ST, New Haven, CT, ","Match","Exact","59 Hervey St, NEW HAVEN, CT, 06512","-72.897934,41.2743",3704076,"R",9,9,142800,2011
+"1887","65 HERVEY ST, New Haven, CT, ","Match","Exact","65 Hervey St, NEW HAVEN, CT, 06512","-72.89773,41.274273",3704076,"R",9,9,142800,2011
+"1888","71 HERVEY ST, New Haven, CT, ","Match","Exact","71 Hervey St, NEW HAVEN, CT, 06512","-72.89753,41.274246",3704076,"R",9,9,142800,2011
+"1889","630 TOWNSEND AV, New Haven, CT, ","Match","Exact","630 Townsend Ave, NEW HAVEN, CT, 06512","-72.89655,41.273945",3704081,"L",9,9,142800,2011
+"1890","620 TOWNSEND AV, New Haven, CT, ","Match","Exact","620 Townsend Ave, NEW HAVEN, CT, 06512","-72.89664,41.273563",3704081,"L",9,9,142800,2011
+"1891","610 TOWNSEND AV, New Haven, CT, ","Match","Exact","610 Townsend Ave, NEW HAVEN, CT, 06512","-72.896736,41.273098",3704092,"L",9,9,142800,2011
+"1892","602 TOWNSEND AV, New Haven, CT, ","Match","Exact","602 Townsend Ave, NEW HAVEN, CT, 06512","-72.89683,41.272686",3704092,"L",9,9,142800,2011
+"1893","596 TOWNSEND AV, New Haven, CT, ","Match","Exact","596 Townsend Ave, NEW HAVEN, CT, 06512","-72.896866,41.272522",3704094,"L",9,9,142800,2011
+"1894","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1895","138 FORT HALE RD, New Haven, CT, ","Match","Exact","138 Fort Hale Rd, NEW HAVEN, CT, 06512","-72.89852,41.272594",3704088,"L",9,9,142800,2011
+"1896","132 FORT HALE RD, New Haven, CT, ","Match","Exact","132 Fort Hale Rd, NEW HAVEN, CT, 06512","-72.89866,41.272606",3704088,"L",9,9,142800,2011
+"1897","6 HERVEY ST, New Haven, CT, ","Match","Exact","6 Hervey St, NEW HAVEN, CT, 06512","-72.89972,41.274555",3704065,"L",9,9,142800,2009
+"1898","219 WOODWARD AV, New Haven, CT, ","Match","Exact","219 Woodward Ave, NEW HAVEN, CT, 06512","-72.89971,41.27508",3704063,"R",9,9,142800,2009
+"1899","225 WOODWARD AV, New Haven, CT, ","Match","Exact","225 Woodward Ave, NEW HAVEN, CT, 06512","-72.89965,41.275238",3704063,"R",9,9,142800,2009
+"1900","231 WOODWARD AV, New Haven, CT, ","Match","Exact","231 Woodward Ave, NEW HAVEN, CT, 06512","-72.8996,41.275394",3704063,"R",9,9,142800,2009
+"1901","235 WOODWARD AV, New Haven, CT, ","Match","Exact","235 Woodward Ave, NEW HAVEN, CT, 06512","-72.89955,41.275497",3704063,"R",9,9,142800,2009
+"1902","241 WOODWARD AV, New Haven, CT, ","Match","Exact","241 Woodward Ave, NEW HAVEN, CT, 06512","-72.8995,41.275654",3704063,"R",9,9,142800,2009
+"1903","245 WOODWARD AV, New Haven, CT, ","Match","Exact","245 Woodward Ave, NEW HAVEN, CT, 06512","-72.89945,41.27576",3704063,"R",9,9,142800,2009
+"1904","WOODWARD AV, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1905","WOODWARD AV, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1906","WOODWARD AV, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1907","WOODWARD AV, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1908","WOODWARD AV, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1909","255 WOODWARD AV, New Haven, CT, ","Match","Exact","255 Woodward Ave, NEW HAVEN, CT, 06512","-72.89935,41.27602",3704063,"R",9,9,142800,2009
+"1910","3 RAYNHAM RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1911","11 RAYNHAM RD, New Haven, CT, ","Match","Exact","11 Raynham Rd, NEW HAVEN, CT, 06512","-72.89907,41.276623",3704064,"R",9,9,142800,2009
+"1912","19 RAYNHAM RD, New Haven, CT, ","Match","Exact","19 Raynham Rd, NEW HAVEN, CT, 06512","-72.897766,41.27645",3704064,"R",9,9,142800,2009
+"1913","25 RAYNHAM RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1914","130 KNEELAND RD, New Haven, CT, ","Match","Exact","130 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89787,41.27594",3704074,"L",9,9,142800,2009
+"1915","120 KNEELAND RD, New Haven, CT, ","Match","Exact","120 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89795,41.27571",3704074,"L",9,9,142800,2009
+"1916","114 KNEELAND RD, New Haven, CT, ","Match","Exact","114 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89799,41.275574",3704074,"L",9,9,142800,2009
+"1917","108 KNEELAND RD, New Haven, CT, ","Match","Exact","108 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89803,41.275436",3704074,"L",9,9,142800,2009
+"1918","KNEELAND RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1919","KNEELAND RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1920","102 KNEELAND RD, New Haven, CT, ","Match","Exact","102 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89808,41.2753",3704074,"L",9,9,142800,2009
+"1921","96 KNEELAND RD, New Haven, CT, ","Match","Exact","96 Kneeland Rd, NEW HAVEN, CT, 06512","-72.898125,41.27516",3704074,"L",9,9,142800,2009
+"1922","90 KNEELAND RD, New Haven, CT, ","Match","Exact","90 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89816,41.275024",3704074,"L",9,9,142800,2009
+"1923","86 KNEELAND RD, New Haven, CT, ","Match","Exact","86 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89819,41.274933",3704074,"L",9,9,142800,2009
+"1924","38 HERVEY ST, New Haven, CT, ","Match","Exact","38 Hervey St, NEW HAVEN, CT, 06512","-72.89869,41.27442",3704065,"L",9,9,142800,2009
+"1925","30 HERVEY ST, New Haven, CT, ","Match","Exact","30 Hervey St, NEW HAVEN, CT, 06512","-72.89895,41.274456",3704065,"L",9,9,142800,2009
+"1926","22 HERVEY ST, New Haven, CT, ","Match","Exact","22 Hervey St, NEW HAVEN, CT, 06512","-72.8992,41.274487",3704065,"L",9,9,142800,2009
+"1927","16 HERVEY ST, New Haven, CT, ","Match","Exact","16 Hervey St, NEW HAVEN, CT, 06512","-72.8994,41.274513",3704065,"L",9,9,142800,2009
+"1928","NA, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1929","85 KNEELAND RD, New Haven, CT, ","Match","Exact","85 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89819,41.274815",3704074,"R",9,9,142800,2010
+"1930","91 KNEELAND RD, New Haven, CT, ","Match","Exact","91 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89815,41.274963",3704074,"R",9,9,142800,2010
+"1931","95 KNEELAND RD, New Haven, CT, ","Match","Exact","95 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89812,41.275063",3704074,"R",9,9,142800,2010
+"1932","101 KNEELAND RD, New Haven, CT, ","Match","Exact","101 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89807,41.27521",3704074,"R",9,9,142800,2010
+"1933","107 KNEELAND RD, New Haven, CT, ","Match","Exact","107 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89802,41.27536",3704074,"R",9,9,142800,2010
+"1934","113 KNEELAND RD, New Haven, CT, ","Match","Exact","113 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89797,41.275505",3704074,"R",9,9,142800,2010
+"1935","119 KNEELAND RD, New Haven, CT, ","Match","Exact","119 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89793,41.275654",3704074,"R",9,9,142800,2010
+"1936","125 KNEELAND RD, New Haven, CT, ","Match","Exact","125 Kneeland Rd, NEW HAVEN, CT, 06512","-72.89788,41.275803",3704074,"R",9,9,142800,2010
+"1937","131 KNEELAND RD, New Haven, CT, ","Match","Exact","131 Kneeland Rd, NEW HAVEN, CT, 06512","-72.897835,41.27595",3704074,"R",9,9,142800,2010
+"1938","55 RAYNHAM RD, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1939","700 TOWNSEND AV, New Haven, CT, ","Match","Exact","700 Townsend Ave, NEW HAVEN, CT, 06512","-72.89632,41.27495",3743318,"L",9,9,142800,2010
+"1940","694 TOWNSEND AV, New Haven, CT, ","Match","Exact","694 Townsend Ave, NEW HAVEN, CT, 06512","-72.89633,41.27486",3742120,"L",9,9,142800,2010
+"1941","690 TOWNSEND AV, New Haven, CT, ","Match","Exact","690 Townsend Ave, NEW HAVEN, CT, 06512","-72.89633,41.274845",3742120,"L",9,9,142800,2010
+"1942","680 TOWNSEND AV, New Haven, CT, ","Match","Exact","680 Townsend Ave, NEW HAVEN, CT, 06512","-72.89634,41.27481",3742120,"L",9,9,142800,2010
+"1943","672 TOWNSEND AV, New Haven, CT, ","Match","Exact","672 Townsend Ave, NEW HAVEN, CT, 06512","-72.89635,41.274784",3742120,"L",9,9,142800,2010
+"1944","664 TOWNSEND AV, New Haven, CT, ","Match","Exact","664 Townsend Ave, NEW HAVEN, CT, 06512","-72.896355,41.274757",3742120,"L",9,9,142800,2010
+"1945","656 TOWNSEND AV, New Haven, CT, ","Match","Exact","656 Townsend Ave, NEW HAVEN, CT, 06512","-72.89639,41.27462",3704079,"L",9,9,142800,2010
+"1946","650 TOWNSEND AV, New Haven, CT, ","Match","Exact","650 Townsend Ave, NEW HAVEN, CT, 06512","-72.89642,41.274483",3704079,"L",9,9,142800,2010
+"1947","640 TOWNSEND AV, New Haven, CT, ","Match","Exact","640 Townsend Ave, NEW HAVEN, CT, 06512","-72.896484,41.274254",3704079,"L",9,9,142800,2010
+"1948","74 HERVEY ST, New Haven, CT, ","Match","Exact","74 Hervey St, NEW HAVEN, CT, 06512","-72.89739,41.274258",3704076,"L",9,9,142800,2010
+"1949","66 HERVEY ST, New Haven, CT, ","Match","Exact","66 Hervey St, NEW HAVEN, CT, 06512","-72.89766,41.274292",3704076,"L",9,9,142800,2010
+"1950","60 HERVEY ST, New Haven, CT, ","Match","Exact","60 Hervey St, NEW HAVEN, CT, 06512","-72.89786,41.274315",3704076,"L",9,9,142800,2010
+"1951","54 HERVEY ST, New Haven, CT, ","Match","Exact","54 Hervey St, NEW HAVEN, CT, 06512","-72.898056,41.27434",3704076,"L",9,9,142800,2010
+"1952","5 POPE ST, New Haven, CT, ","Match","Exact","5 Pope St, NEW HAVEN, CT, 06512","-72.90045,41.270687",3704087,"R",9,9,142800,2015
+"1953","17 POPE ST, New Haven, CT, ","Match","Exact","17 Pope St, NEW HAVEN, CT, 06512","-72.900024,41.270622",3704087,"R",9,9,142800,2015
+"1954","25 POPE ST, New Haven, CT, ","Match","Exact","25 Pope St, NEW HAVEN, CT, 06512","-72.899734,41.27058",3704087,"R",9,9,142800,2015
+"1955","35 POPE ST, New Haven, CT, ","Match","Exact","35 Pope St, NEW HAVEN, CT, 06512","-72.89938,41.270527",3704087,"R",9,9,142800,2015
+"1956","41 POPE ST, New Haven, CT, ","Match","Exact","41 Pope St, NEW HAVEN, CT, 06512","-72.89917,41.270493",3704087,"R",9,9,142800,2015
+"1957","43 POPE ST, New Haven, CT, ","Match","Exact","43 Pope St, NEW HAVEN, CT, 06512","-72.89909,41.27048",3704087,"R",9,9,142800,2015
+"1958","49 POPE ST, New Haven, CT, ","Match","Exact","49 Pope St, NEW HAVEN, CT, 06512","-72.89888,41.27045",3704087,"R",9,9,142800,2015
+"1959","51 POPE ST, New Haven, CT, ","Match","Exact","51 Pope St, NEW HAVEN, CT, 06512","-72.89881,41.27044",3704087,"R",9,9,142800,2015
+"1960","59 POPE ST, New Haven, CT, ","Match","Exact","59 Pope St, NEW HAVEN, CT, 06512","-72.89853,41.270397",3704087,"R",9,9,142800,2015
+"1961","65 POPE ST, New Haven, CT, ","Match","Exact","65 Pope St, NEW HAVEN, CT, 06512","-72.898315,41.270367",3704087,"R",9,9,142800,2015
+"1962","69 POPE ST, New Haven, CT, ","Match","Exact","69 Pope St, NEW HAVEN, CT, 06512","-72.89817,41.270344",3704087,"R",9,9,142800,2015
+"1963","73 POPE ST, New Haven, CT, ","Match","Exact","73 Pope St, NEW HAVEN, CT, 06512","-72.898026,41.27032",3704087,"R",9,9,142800,2015
+"1964","480 TOWNSEND AV, New Haven, CT, ","Match","Exact","480 Townsend Ave, NEW HAVEN, CT, 06512","-72.896904,41.269882",3704100,"L",9,9,142800,2015
+"1965","458 TOWNSEND AV, New Haven, CT, ","Match","Exact","458 Townsend Ave, NEW HAVEN, CT, 06512","-72.896904,41.269302",3704101,"L",9,9,142800,2015
+"1966","450 TOWNSEND AV, New Haven, CT, ","Match","Exact","450 Townsend Ave, NEW HAVEN, CT, 06512","-72.896904,41.269096",3704101,"L",9,9,142800,2015
+"1967","444 TOWNSEND AV, New Haven, CT, ","Match","Exact","444 Townsend Ave, NEW HAVEN, CT, 06512","-72.89691,41.268944",3704101,"L",9,9,142800,2015
+"1968","440 TOWNSEND AV, New Haven, CT, ","Match","Exact","440 Townsend Ave, NEW HAVEN, CT, 06512","-72.89691,41.268818",3704102,"L",9,9,142800,2015
+"1969","430 TOWNSEND AV, New Haven, CT, ","Match","Exact","430 Townsend Ave, NEW HAVEN, CT, 06512","-72.89691,41.26856",3704102,"L",9,9,142800,2015
+"1970","TOWNSEND AV, New Haven, CT, ","No_Match","","","",NA,"",NA,NA,NA,NA
+"1971","24 WOODWARD AV #1, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1972","24 WOODWARD AV #2, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1973","24 WOODWARD AV #3, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1974","24 WOODWARD AV #4, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1975","24 WOODWARD AV #5, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1976","24 WOODWARD AV #6, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1977","24 WOODWARD AV #7, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1978","24 WOODWARD AV #8, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1979","24 WOODWARD AV #9, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1980","24 WOODWARD AV #10, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1981","24 WOODWARD AV #11, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1982","24 WOODWARD AV #12, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1983","24 WOODWARD AV #13, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1984","24 WOODWARD AV #14, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1985","24 WOODWARD AV #15, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1986","24 WOODWARD AV #16, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1987","24 WOODWARD AV #17, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1988","24 WOODWARD AV #18, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1989","24 WOODWARD AV #19, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1990","24 WOODWARD AV #20, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1991","24 WOODWARD AV #21, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1992","24 WOODWARD AV #22, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1993","24 WOODWARD AV #23, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1994","24 WOODWARD AV #24, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1995","24 WOODWARD AV #25, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1996","24 WOODWARD AV #26, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1997","24 WOODWARD AV #27, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1998","24 WOODWARD AV #28, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"1999","24 WOODWARD AV #29, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014
+"2000","24 WOODWARD AV #30, New Haven, CT, ","Match","Exact","24 Woodward Ave, NEW HAVEN, CT, 06512","-72.90084,41.270355",604757520,"L",9,9,142800,2014

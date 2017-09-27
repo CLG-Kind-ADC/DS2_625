@@ -201,7 +201,9 @@ content(req, "text", encoding = "UTF-8")
 outfile <- tempfile(fileext = ".csv")
 writeLines(content(req, "text", encoding = "UTF-8"), outfile)
 
-v <- read.csv(outfile, header=FALSE, as.is=TRUE)
+v <- read.csv(outfile, header=FALSE, as.is=TRUE,
+              col.names = c("pid", "address", "match1", "match2", "address_match",
+               "latlong", "lineid", "side", "state", "county", "tract", "block") )
 v=v[-which(v$V1=="pid"),]
 v=v[order(as.numeric(v$V1)),]
 write.csv(v,paste("/Volumes/SSG SSD T3/ssd_statgrad/DS2_625/hw4/v",i,".csv",sep=""),
@@ -213,3 +215,26 @@ for ( i in 1:28){
   ph=read.csv(paste("/Volumes/SSG SSD T3/ssd_statgrad/DS2_625/hw4/v",i,".csv",sep=""))
   govdata=rbind(govdata,ph)
 }
+colnames(govdata) <- c("pid", "address", "match1", "match2", "address_match",
+                 "latlong", "lineid", "side", "state", "county", "tract", "block")
+latlonglist=strsplit(as.character(govdata$latlong),split=",")
+
+latitude=NULL
+longitude=NULL
+for (i in 1:length(latlonglist)){
+  if (length(latlonglist[[i]])>=1){
+    latitude[i] = latlonglist[[i]][1]
+    longitude[i] = latlonglist[[i]][2]
+  }
+  else {
+    latitude[i] = NA
+    longitude[i] = NA
+  } 
+}
+
+housing_df = read.csv("/Volumes/SSG SSD T3/ssd_statgrad/DS2_625/test.csv",header=T,as.is=T)
+housing_df$match1=govdata$match1
+housing_df$match2=govdata$match2
+housing_df$latitude=latitude
+housing_df$longitude=longitude
+write.csv(housing_df,"/Volumes/SSG SSD T3/ssd_statgrad/DS2_625/housingdata.csv",row.names=F)
