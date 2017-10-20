@@ -1,9 +1,9 @@
 #### 10/11 In class plots script
 require(ggplot2)
-our_df <- read.csv("hw8_phh26.csv", as.is=TRUE)
+our_df <- read.csv("/Volumes/ssg ssd t3/ssd_statgrad/ds2_625/hw8_phh26.csv", as.is=TRUE)
 our_df[our_df$Sex=="?",] <- NA
 
-our_df[our_df[]$Div == "M20-29" | our_df[]$Div == "F20-29",]$Div
+our_df[our_df$Div == "M20-29" | our_df$Div == "F20-29",]$Div
 
 names.20.29 <- subset(our_df, (Div=="M20-29" | Div=="F20-29") & 
                         (duplicated(our_df$Name, fromLast=TRUE) & ! 
