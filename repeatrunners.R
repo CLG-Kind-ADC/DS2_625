@@ -114,3 +114,214 @@ m5054=reps[which(reps$startdiv=="M50-54"),]
 m5559=reps[which(reps$startdiv=="M55-59"),]
 m6064=reps[which(reps$startdiv=="M60-64"),]
 m6569=reps[which(reps$startdiv=="M65-69"),]
+###############################
+f13192=data.frame()
+for (i in 1:dim(f1319)[1]){
+  if(f1319$Nettime[i]!=f1319$firstnettime[i]){
+    f13192=rbind(f13192,f1319[i,])
+  }
+}
+summary(lm(f13192$Nettime~f13192$firstnettime))
+fteensum=summary(lm(f13192$Nettime~f13192$firstnettime))
+plot(f13192$Nettime~f13192$firstnettime)
+abline(fteensum$coeff[1],fteensum$coeff[2])
+#############################
+f20292=data.frame()
+for (i in 1:dim(f2029)[1]){
+  if(f2029$Nettime[i]!=f2029$firstnettime[i]){
+    f20292=rbind(f20292,f2029[i,])
+  }
+}
+#summary(lm(f20292$Nettime~f20292$firstnettime))
+f20ssum=summary(lm(f20292$Nettime~f20292$firstnettime))
+plot(f20292$Nettime~f20292$firstnettime)
+abline(f20ssum$coeff[1],f20ssum$coeff[2])
+#############################
+f30392=data.frame()
+for (i in 1:dim(f3039)[1]){
+  if(f3039$Nettime[i]!=f3039$firstnettime[i]){
+    f30392=rbind(f30392,f3039[i,])
+  }
+}
+#summary(lm(f30392$Nettime~f30392$firstnettime))
+f30ssum=summary(lm(f30392$Nettime~f30392$firstnettime))
+plot(f30392$Nettime~f30392$firstnettime)
+abline(f30ssum$coeff[1],f30ssum$coeff[2])
+#############################
+f40442=data.frame()
+for (i in 1:dim(f4044)[1]){
+  if(f4044$Nettime[i]!=f4044$firstnettime[i]){
+    f40442=rbind(f40442,f4044[i,])
+  }
+}
+#summary(lm(f40442$Nettime~f40442$firstnettime))
+f40s1sum=summary(lm(f40442$Nettime~f40442$firstnettime))
+plot(f40442$Nettime~f40442$firstnettime)
+abline(f40s1sum$coeff[1],f40s1sum$coeff[2])
+#############################
+f45492=data.frame()
+for (i in 1:dim(f4549)[1]){
+  if(f4549$Nettime[i]!=f4549$firstnettime[i]){
+    f45492=rbind(f45492,f4549[i,])
+  }
+}
+#summary(lm(f45492$Nettime~f45492$firstnettime))
+f40s2sum=summary(lm(f45492$Nettime~f45492$firstnettime))
+plot(f45492$Nettime~f45492$firstnettime)
+abline(f40s2sum$coeff[1],f40s2sum$coeff[2])
+#############################
+f50542=data.frame()
+for (i in 1:dim(f5054)[1]){
+  if(f5054$Nettime[i]!=f5054$firstnettime[i]){
+    f50542=rbind(f50542,f5054[i,])
+  }
+}
+#summary(lm(f50542$Nettime~f50542$firstnettime))
+f50s1sum=summary(lm(f50542$Nettime~f50542$firstnettime))
+plot(f50542$Nettime~f50542$firstnettime)
+abline(f50s1sum$coeff[1],f50s1sum$coeff[2])
+#############################
+f55592=data.frame()
+for (i in 1:dim(f5559)[1]){
+  if(f5559$Nettime[i]!=f5559$firstnettime[i]){
+    f55592=rbind(f55592,f5559[i,])
+  }
+}
+#summary(lm(f55592$Nettime~f55592$firstnettime))
+f50s2sum=summary(lm(f55592$Nettime~f55592$firstnettime))
+plot(f55592$Nettime~f55592$firstnettime)
+abline(f50s2sum$coeff[1],f50s2sum$coeff[2])
+#############################
+f60642=data.frame()
+for (i in 1:dim(f6064)[1]){
+  if(f6064$Nettime[i]!=f6064$firstnettime[i]){
+    f60642=rbind(f60642,f6064[i,])
+  }
+}
+#summary(lm(f60642$Nettime~f60642$firstnettime))
+f60s1sum=summary(lm(f60642$Nettime~f60642$firstnettime))
+plot(f60642$Nettime~f60642$firstnettime)
+abline(f60s1sum$coeff[1],f60s1sum$coeff[2])
+#############################
+f65692=data.frame()
+for (i in 1:dim(f6569)[1]){
+  if(f6569$Nettime[i]!=f6569$firstnettime[i]){
+    f65692=rbind(f65692,f6569[i,])
+  }
+}
+#summary(lm(f65692$Nettime~f65692$firstnettime))
+f60s2sum=summary(lm(f65692$Nettime~f65692$firstnettime))
+plot(f65692$Nettime~f65692$firstnettime)
+abline(f60s2sum$coeff[1],f60s2sum$coeff[2])
+
+########################################
+######### Males ########################
+########################################
+m13192=data.frame()
+for (i in 1:dim(m1319)[1]){
+  if(m1319$Nettime[i]!=m1319$firstnettime[i]){
+    m13192=rbind(m13192,m1319[i,])
+  }
+}
+summary(lm(m13192$Nettime~m13192$firstnettime))
+mteensum=summary(lm(m13192$Nettime~m13192$firstnettime))
+plot(m13192$Nettime~m13192$firstnettime)
+abline(mteensum$coeff[1],mteensum$coeff[2])
+#############################
+m20292=data.frame()
+for (i in 1:dim(m2029)[1]){
+  if(m2029$Nettime[i]!=m2029$firstnettime[i]){
+    m20292=rbind(m20292,m2029[i,])
+  }
+}
+#summary(lm(m20292$Nettime~m20292$firstnettime))
+m20ssum=summary(lm(m20292$Nettime~m20292$firstnettime))
+plot(m20292$Nettime~m20292$firstnettime)
+abline(m20ssum$coeff[1],m20ssum$coeff[2])
+#############################
+m30392=data.frame()
+for (i in 1:dim(m3039)[1]){
+  if(m3039$Nettime[i]!=m3039$firstnettime[i]){
+    m30392=rbind(m30392,m3039[i,])
+  }
+}
+#summary(lm(m30392$Nettime~m30392$firstnettime))
+m30ssum=summary(lm(m30392$Nettime~m30392$firstnettime))
+plot(m30392$Nettime~m30392$firstnettime)
+abline(m30ssum$coeff[1],m30ssum$coeff[2])
+#############################
+m40442=data.frame()
+for (i in 1:dim(m4044)[1]){
+  if(m4044$Nettime[i]!=m4044$firstnettime[i]){
+    m40442=rbind(m40442,m4044[i,])
+  }
+}
+#summary(lm(m40442$Nettime~m40442$firstnettime))
+m40s1sum=summary(lm(m40442$Nettime~m40442$firstnettime))
+plot(m40442$Nettime~m40442$firstnettime)
+abline(m40s1sum$coeff[1],m40s1sum$coeff[2])
+#############################
+m45492=data.frame()
+for (i in 1:dim(m4549)[1]){
+  if(m4549$Nettime[i]!=m4549$firstnettime[i]){
+    m45492=rbind(m45492,m4549[i,])
+  }
+}
+#summary(lm(m45492$Nettime~m45492$firstnettime))
+m40s2sum=summary(lm(m45492$Nettime~m45492$firstnettime))
+plot(m45492$Nettime~m45492$firstnettime)
+abline(m40s2sum$coeff[1],m40s2sum$coeff[2])
+#############################
+m50542=data.frame()
+for (i in 1:dim(m5054)[1]){
+  if(m5054$Nettime[i]!=m5054$firstnettime[i]){
+    m50542=rbind(m50542,m5054[i,])
+  }
+}
+#summary(lm(m50542$Nettime~m50542$firstnettime))
+m50s1sum=summary(lm(m50542$Nettime~m50542$firstnettime))
+plot(m50542$Nettime~m50542$firstnettime)
+abline(m50s1sum$coeff[1],m50s1sum$coeff[2])
+#############################
+m55592=data.frame()
+for (i in 1:dim(m5559)[1]){
+  if(m5559$Nettime[i]!=m5559$firstnettime[i]){
+    m55592=rbind(m55592,m5559[i,])
+  }
+}
+#summary(lm(m55592$Nettime~m55592$firstnettime))
+m50s2sum=summary(lm(m55592$Nettime~m55592$firstnettime))
+plot(m55592$Nettime~m55592$firstnettime)
+abline(m50s2sum$coeff[1],m50s2sum$coeff[2])
+#############################
+m60642=data.frame()
+for (i in 1:dim(m6064)[1]){
+  if(m6064$Nettime[i]!=m6064$firstnettime[i]){
+    m60642=rbind(m60642,m6064[i,])
+  }
+}
+#summary(lm(m60642$Nettime~m60642$firstnettime))
+m60s1sum=summary(lm(m60642$Nettime~m60642$firstnettime))
+plot(m60642$Nettime~m60642$firstnettime)
+abline(m60s1sum$coeff[1],m60s1sum$coeff[2])
+#############################
+m65692=data.frame()
+for (i in 1:dim(m6569)[1]){
+  if(m6569$Nettime[i]!=m6569$firstnettime[i]){
+    m65692=rbind(m65692,m6569[i,])
+  }
+}
+#summary(lm(m65692$Nettime~m65692$firstnettime))
+m60s2sum=summary(lm(m65692$Nettime~m65692$firstnettime))
+plot(m65692$Nettime~m65692$firstnettime)
+abline(m60s2sum$coeff[1],m60s2sum$coeff[2])
+
+fteensum; mteensum
+f20ssum; m20ssum
+f30ssum; m30ssum
+f40s1sum; m40s1sum
+f40s2sum; m40s2sum
+f50s1sum; m50s1sum
+f50s2sum; m50s2sum
+f60s1sum; m60s1sum
+f60s2sum; m60s2sum
